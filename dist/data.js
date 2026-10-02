@@ -1,6 +1,7 @@
 window.PORTFOLIO = {
  email: 'jgeoffreyartist@gmail.com',
  clients: [],
+ bogotaVisits: [],
  series: [
   {id:'cajas',name:'Cajas',subtitle:'La figura encuentra su lugar.',text:'Personas que leen, esperan o se detienen. Figuras absortas en sus propios gestos habitan vacíos construidos con planos de color, sombras y profundidad. La pintura se acerca al objeto y cambia con nuestra posición frente a ella.',image:'caja-rayas',note:'Cajas es una denominación de trabajo. La clasificación definitiva se precisará con el artista.'},
   {id:'ser-y-parecer',name:'Ser y parecer',subtitle:'Mirar de nuevo lo que creemos ver.',text:'La apariencia de un muro fracturado abre una pregunta sobre lo que hay detrás de su superficie. Pintura, soporte y entorno se relacionan en obras que acercan la imagen a la arquitectura y hacen de la percepción parte de la experiencia.',image:'ser-parecer',wall:true,groups:[{name:'Aleación',id:'aleacion',heading:'Aleación',text:'Aleación es una evolución de Ser y parecer: la obra pictórica se incorpora a esferas de metal, donde las fracturas pintadas dialogan con los reflejos del entorno.'}]},
