@@ -101,11 +101,52 @@ window.PORTFOLIO = {
       "group": "Minería legal",
       "label": "Batea con figuras de mineros",
       "images": [
+        "batea-octubre-2",
         "batea",
         "batea-documental",
         "mineria-montaje"
       ],
       "description": "Las figuras de los mineros recorren el borde de una batea. Esta obra pertenece a la vertiente escultórica de A cielo abierto, Minería legal. La vista de montaje documenta otras obras de la serie."
+    },
+    {
+      "id": "batea-mineros-centro",
+      "series": "a-cielo-abierto",
+      "group": "Minería legal",
+      "label": "Batea con mineros en el centro",
+      "images": [
+        "batea-octubre-1"
+      ],
+      "description": "Figuras de mineros se agrupan sobre la superficie de madera de la batea. Esta obra pertenece a Minería legal, la vertiente escultórica de A cielo abierto."
+    },
+    {
+      "id": "batea-mineros-circulo",
+      "series": "a-cielo-abierto",
+      "group": "Minería legal",
+      "label": "Batea con mineros en círculo",
+      "images": [
+        "batea-octubre-3"
+      ],
+      "description": "Las figuras recorren la batea y se reúnen alrededor de su centro. Esta obra pertenece a Minería legal, la vertiente escultórica de A cielo abierto."
+    },
+    {
+      "id": "batea-metal-mineros",
+      "series": "a-cielo-abierto",
+      "group": "Minería legal",
+      "label": "Batea metálica con figuras de mineros",
+      "images": [
+        "batea-octubre-4"
+      ],
+      "description": "La superficie metálica refleja el entorno entre grupos de figuras de mineros. Esta obra pertenece a Minería legal, la vertiente escultórica de A cielo abierto."
+    },
+    {
+      "id": "batea-asas-reparaciones",
+      "series": "a-cielo-abierto",
+      "group": "Minería legal",
+      "label": "Batea con asas y reparaciones metálicas",
+      "images": [
+        "batea-octubre-5"
+      ],
+      "description": "Las figuras de mineros habitan una batea con asas, grietas y reparaciones metálicas. Esta obra pertenece a Minería legal, la vertiente escultórica de A cielo abierto."
     },
     {
       "id": "cielo-horizonte-verde",
@@ -1041,7 +1082,12 @@ window.PORTFOLIO = {
     "portfolio-sombras-2-frontal": "assets/portfolio-sombras-2-frontal.svg",
     "portfolio-sombras-3-frontal": "assets/portfolio-sombras-3-frontal.svg",
     "ser-parecer": "assets/ser-parecer-pared-extendida.png",
-    "ser-parecer-documental": "assets/ser-parecer.webp"
+    "ser-parecer-documental": "assets/ser-parecer.webp",
+    "batea-octubre-1": "assets/batea-octubre-1-transparente.svg",
+    "batea-octubre-2": "assets/batea-octubre-2-transparente.svg",
+    "batea-octubre-3": "assets/batea-octubre-3-transparente.svg",
+    "batea-octubre-4": "assets/batea-octubre-4-transparente.svg",
+    "batea-octubre-5": "assets/batea-octubre-5-transparente.svg"
   },
   "portfolioUpdated": "2026"
 };
