@@ -400,6 +400,7 @@ window.PORTFOLIO = {
       "year": "2016",
       "images": [
         "ser-parecer",
+        "ser-parecer-documental",
         "ser-proceso"
       ],
       "description": "Registro de la obra instalada y de su proceso. La apariencia de una excavación atraviesa visualmente el muro y se relaciona con los fragmentos dispuestos en el suelo.",
@@ -1038,7 +1039,9 @@ window.PORTFOLIO = {
     "portfolio-p22-00-Image103": "assets/portfolio-p22-00-Image103.jpg",
     "portfolio-sombras-1-frontal": "assets/portfolio-sombras-1-frontal.svg",
     "portfolio-sombras-2-frontal": "assets/portfolio-sombras-2-frontal.svg",
-    "portfolio-sombras-3-frontal": "assets/portfolio-sombras-3-frontal.svg"
+    "portfolio-sombras-3-frontal": "assets/portfolio-sombras-3-frontal.svg",
+    "ser-parecer": "assets/ser-parecer-pared-extendida.png",
+    "ser-parecer-documental": "assets/ser-parecer.webp"
   },
   "portfolioUpdated": "2026"
 };
