@@ -96,6 +96,46 @@ window.PORTFOLIO = {
       "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026"
     },
     {
+      "id": "cielo-acrilico-satinado-mineros",
+      "label": "Mineros sobre acrílico satinado circular",
+      "description": "Grupos de mineros se distribuyen entre figuras próximas y figuras difusas sobre una superficie circular de acrílico satinado.",
+      "series": "a-cielo-abierto",
+      "medium": "Óleo sobre láminas de acrílico satinado",
+      "images": [
+        "cielo-acrilico-satinado-1"
+      ]
+    },
+    {
+      "id": "cielo-acrilico-satinado-personas",
+      "label": "Figuras sobre acrílico satinado circular",
+      "description": "Las figuras humanas ocupan distintos planos de profundidad sobre el acrílico satinado, dentro de un marco circular blanco.",
+      "series": "a-cielo-abierto",
+      "medium": "Óleo sobre láminas de acrílico satinado",
+      "images": [
+        "cielo-acrilico-satinado-2"
+      ]
+    },
+    {
+      "id": "cielo-acrilico-rosa-verde",
+      "label": "Figuras sobre un horizonte rosa y verde",
+      "description": "Pequeñas figuras humanas se reúnen sobre un plano verde bajo un campo rosa. La superficie satinada relaciona figuras definidas y difusas.",
+      "series": "a-cielo-abierto",
+      "medium": "Óleo sobre láminas de acrílico satinado",
+      "images": [
+        "cielo-acrilico-satinado-3"
+      ]
+    },
+    {
+      "id": "cielo-acrilico-violeta-amarillo",
+      "label": "Figuras sobre un horizonte violeta y amarillo",
+      "description": "Las figuras humanas se distribuyen sobre un plano amarillo bajo un campo violeta, entre distintos grados de definición.",
+      "series": "a-cielo-abierto",
+      "medium": "Óleo sobre láminas de acrílico satinado",
+      "images": [
+        "cielo-acrilico-satinado-4"
+      ]
+    },
+    {
       "id": "batea",
       "series": "a-cielo-abierto",
       "group": "Minería legal",
@@ -1087,7 +1127,11 @@ window.PORTFOLIO = {
     "batea-octubre-2": "assets/batea-octubre-2-transparente.svg",
     "batea-octubre-3": "assets/batea-octubre-3-transparente.svg",
     "batea-octubre-4": "assets/batea-octubre-4-transparente.svg",
-    "batea-octubre-5": "assets/batea-octubre-5-transparente.svg"
+    "batea-octubre-5": "assets/batea-octubre-5-transparente.svg",
+    "cielo-acrilico-satinado-1": "assets/cielo-acrilico-satinado-1.svg",
+    "cielo-acrilico-satinado-2": "assets/cielo-acrilico-satinado-2.svg",
+    "cielo-acrilico-satinado-3": "assets/cielo-acrilico-satinado-3.png",
+    "cielo-acrilico-satinado-4": "assets/cielo-acrilico-satinado-4.png"
   },
   "portfolioUpdated": "2026"
 };
