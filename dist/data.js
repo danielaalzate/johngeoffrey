@@ -234,24 +234,6 @@ window.PORTFOLIO = {
       ]
     },
     {
-      "id": "cielo-horizonte-ocre",
-      "series": "a-cielo-abierto",
-      "label": "Figuras sobre metal y ocre",
-      "images": [
-        "cielo-horizonte-ocre-frontal"
-      ],
-      "description": "Vista recuperada de una fotografía de montaje. Se conserva la resolución documental disponible."
-    },
-    {
-      "id": "cielo-horizonte-naranja",
-      "series": "a-cielo-abierto",
-      "label": "Figuras sobre metal y naranja",
-      "images": [
-        "cielo-horizonte-naranja-frontal"
-      ],
-      "description": "Vista recuperada de una fotografía de montaje. Se conserva la resolución documental disponible."
-    },
-    {
       "id": "cielo-danza",
       "series": "a-cielo-abierto",
       "label": "Figura en movimiento sobre fondo azul",
@@ -414,27 +396,6 @@ window.PORTFOLIO = {
         "portfolio-eco-circular-naranja-frontal"
       ],
       "portfolioPage": 8
-    },
-    {
-      "id": "cielo-mineros-verde-1",
-      "series": "a-cielo-abierto",
-      "label": "Figuras de mineros sobre verde · I",
-      "images": [
-        "portfolio-p03-00-Image25",
-        "portfolio-p02-00-Image15"
-      ],
-      "portfolioPage": 3,
-      "description": "Fotografías incluidas en el portafolio 2026. La ficha técnica y el título se confirmarán con el artista."
-    },
-    {
-      "id": "cielo-mineros-verde-2",
-      "series": "a-cielo-abierto",
-      "label": "Figuras de mineros sobre verde · II",
-      "images": [
-        "portfolio-p05-00-Image30"
-      ],
-      "portfolioPage": 5,
-      "description": "Fotografía incluida en el portafolio 2026. La ficha técnica y el título se confirmarán con el artista."
     },
     {
       "id": "cielo-violeta-verde-2024",
