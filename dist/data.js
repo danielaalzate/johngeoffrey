@@ -46,7 +46,7 @@ window.PORTFOLIO = {
       "name": "Juego de sombras",
       "subtitle": "El gesto y su otra imagen.",
       "text": "En Juego de sombras, John Geoffrey explora la sombra que la pintura proyecta en el fondo de la caja de metal. Aprovecha la luz para relacionar la figura representada con su sombra adyacente. A través de los gestos descubre imágenes esquivas de animales, objetos y formas del imaginario cotidiano. La pintura, la luz y la sombra construyen juntas la escena y abren distintas posibilidades de lectura.",
-      "image": "portfolio-sombras-1-frontal"
+      "image": "sombras-naranja"
     }
   ],
   "works": [
