@@ -59,3 +59,5 @@
 .footer-credit{grid-column:1/-1;border-top:1px solid var(--line);padding-top:24px;display:flex;justify-content:flex-end;color:var(--muted);font-size:12px}
 .site-footer .footer-credit a{display:inline;letter-spacing:.025em}.footer-credit span{color:var(--fg)}.footer-credit a:hover span{text-decoration:underline;text-underline-offset:4px}
 @media(max-width:760px){.site-footer{grid-template-columns:1fr;gap:28px;padding:36px 0 88px}.footer-connect{justify-content:space-between;gap:16px}.footer-credit{justify-content:flex-start;padding-top:22px}}
+
+.site-footer .footer-email{display:inline-flex;align-items:center;gap:10px;min-height:44px}.footer-email svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.5}
