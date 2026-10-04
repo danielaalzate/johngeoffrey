@@ -31,7 +31,7 @@ window.PORTFOLIO = {
       "name": "A cielo abierto",
       "subtitle": "La figura, el horizonte y el territorio.",
       "text": "En A cielo abierto, John Geoffrey sitúa pequeñas figuras humanas entre horizontes y planos de metal, acrílico y color. Sus gestos y reflejos relacionan el ritmo cotidiano con el espacio de la pintura. Los personajes, a menudo de espaldas y absortos en lo suyo, dejan abierta la interpretación de la escena. La serie se prolonga en las bateas de Minería legal, su vertiente escultórica.",
-      "image": "cielo-horizonte-verde-frontal",
+      "image": "portfolio-p15-01-Image82",
       "groups": [
         {
           "name": "Minería legal",
