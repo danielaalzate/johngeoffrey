@@ -75,3 +75,9 @@
 @media(max-width:760px){.mural-project{padding:40px 0}.mural-photo-grid{grid-template-columns:1fr;gap:28px}.mural-project-nav{gap:12px 24px}}
 
 .press-axxis-image{display:block;width:100%;height:auto;margin-bottom:28px}
+
+.mural-home-feature{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);gap:7vw;align-items:center;margin:0 var(--space) 100px;padding-top:60px;border-top:1px solid var(--line)}
+.mural-home-photo{display:block}.mural-home-photo img{display:block;width:100%;height:auto}
+.mural-home-copy h2{font-size:clamp(42px,5vw,76px);line-height:1.06;margin:24px 0 32px;max-width:9ch}
+.mural-home-copy>p{max-width:48ch}.mural-home-copy .button{margin-top:20px}.mural-home-caption{margin-top:30px}
+@media(max-width:760px){.mural-home-feature{grid-template-columns:1fr;gap:30px;margin-bottom:70px;padding-top:36px}.mural-home-copy h2{font-size:clamp(42px,10vw,64px);max-width:12ch;margin-top:16px}}
