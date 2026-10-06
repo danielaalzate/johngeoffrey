@@ -24,6 +24,13 @@ window.PORTFOLIO = {
           "heading": "Aleaciones",
           "text": "Aleaciones prolonga la exploración de Ser y parecer sobre esferas de acero inoxidable. Mediante la pintura, John Geoffrey hace que sus superficies parezcan desgarrarse y revelar concreto, ladrillo, cemento y tuberías. Los reflejos del metal dialogan con estas ilusiones de fractura: lo sólido parece frágil y lo que permanece oculto se vuelve visible."
         }
+      ],
+      "artistStatement": [
+        "En mi trabajo siempre está presente este juego real y metafórico, con el acto de revelar. En un primer sentido se trata de “perforar la superficie para revelar otra realidad” pictóricamente hablando.",
+        "Siempre he estado interesado en lo que ocurre en el espacio en como la pintura se relaciona con la arquitectura, a partir de todos sus aspectos, el contenido, su tamaño, sus formas y todos sus detalles.",
+        "Mi interés ante estas imágenes de cosas del mundo objetivo es el develamiento que a través de su hosca e ignorada imagen encuentro interesantes para mi percepción como pintor.  Desde su aspecto formal me cautivan sus dimensiones, sus formas, que encuadro de manera un poco metafórica si se quiere en la superficie de los espacios arquitectónicos. La aparición de un sistema de tubería, el cableado interno, la estructura de hierro, de madera etc. que se cubre con el ladrillo y el repello de las paredes, la pintura descascarada, las capas de pintura que se develan en las paredes agrietadas; En fin, es un proceso de múltiples posibilidades a la creación de imágenes.",
+        "Mi intención como pintor es construir superficies, buscando así la manera de alterar su aspecto formal, irrumpiendo su bidimensionalidad, traspasando y revelando su universo interior, abriendo camino a la continuidad del espacio en la superficie. Entonces la superficie no es un simple soporte para las ideas, es el problema concreto, actual, vivo de la obra.",
+        "El gusto por la ilusión de la realidad ha sido revivido por el deseo de hacer parecer el “ser” y el “parecer” La evasiva me ha servido para ir más allá de una modificación de la superficie a una representación de un espacio, el cual es al mismo tiempo objeto e imagen."
       ]
     },
     {
@@ -172,11 +179,12 @@ window.PORTFOLIO = {
       "id": "batea-metal-mineros",
       "series": "a-cielo-abierto",
       "group": "Minería legal",
-      "label": "Batea metálica con figuras de mineros",
+      "label": "Batea de acero inoxidable con figuras de mineros",
       "images": [
-        "batea-octubre-4"
+        "batea-octubre-4",
+        "batea-acero-documental"
       ],
-      "description": "La superficie metálica refleja el entorno entre grupos de figuras de mineros. Esta obra pertenece a Minería legal, la vertiente escultórica de A cielo abierto."
+      "description": "La superficie de acero inoxidable refleja el entorno entre grupos de figuras de mineros. Esta obra pertenece a Minería legal, la vertiente escultórica de A cielo abierto."
     },
     {
       "id": "batea-asas-reparaciones",
@@ -1092,7 +1100,13 @@ window.PORTFOLIO = {
     "cielo-acrilico-satinado-1": "assets/cielo-acrilico-satinado-1.svg",
     "cielo-acrilico-satinado-2": "assets/cielo-acrilico-satinado-2.svg",
     "cielo-acrilico-satinado-3": "assets/cielo-acrilico-satinado-3.png",
-    "cielo-acrilico-satinado-4": "assets/cielo-acrilico-satinado-4.png"
+    "cielo-acrilico-satinado-4": "assets/cielo-acrilico-satinado-4.png",
+    "batea-acero-documental": "assets/batea-acero-inoxidable-documental.jpeg"
   },
-  "portfolioUpdated": "2026"
+  "portfolioUpdated": "2026",
+  "artistBiography": [
+    "Artista plástico nacido en Cumbitara (Nariño) cuya obra explora la relación entre la memoria, el territorio y la condición humana a través de la pintura. Maestro en Artes Plásticas y Visuales en la ASAB (Academia Superior de Artes de Bogotá), ha desarrollado una propuesta artística que combina una sólida formación técnica con una investigación constante sobre la imagen, la percepción y los procesos sociales contemporáneos.",
+    "Su trabajo ha sido exhibido en diferentes espacios culturales, galerías y ferias de arte en Colombia y el exterior, destacándose en ferias como ArtContext y ArtMiami, consolidando una trayectoria reconocida por la calidad técnica y la profundidad conceptual de sus proyectos.",
+    "Actualmente, continúa desarrollando series que reflexionan sobre las dinámicas sociales, las economías invisibles y las transformaciones del paisaje humano desde una mirada crítica y poética."
+  ]
 };
