@@ -527,6 +527,15 @@ window.PORTFOLIO = {
       "group": "Aleaciones",
       "portfolioPage": 22,
       "description": "Ficha actualizada según el portafolio 2026 del artista."
+    },
+    {
+      "id": "eco-globos-dorados",
+      "series": "eco-de-luz",
+      "label": "Figura con globos dorados sobre fondo amarillo",
+      "images": [
+        "eco-globos-dorados",
+        "eco-globos-dorados-documental"
+      ]
     }
   ],
   "events": [
@@ -1101,7 +1110,9 @@ window.PORTFOLIO = {
     "cielo-acrilico-satinado-2": "assets/cielo-acrilico-satinado-2.svg",
     "cielo-acrilico-satinado-3": "assets/cielo-acrilico-satinado-3.png",
     "cielo-acrilico-satinado-4": "assets/cielo-acrilico-satinado-4.png",
-    "batea-acero-documental": "assets/batea-acero-inoxidable-documental.jpeg"
+    "batea-acero-documental": "assets/batea-acero-inoxidable-documental.jpeg",
+    "eco-globos-dorados": "assets/eco-globos-dorados-transparente.svg",
+    "eco-globos-dorados-documental": "assets/eco-globos-dorados-documental.jpeg"
   },
   "portfolioUpdated": "2026",
   "artistBiography": [
