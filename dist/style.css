@@ -61,3 +61,15 @@
 @media(max-width:760px){.site-footer{grid-template-columns:1fr;gap:28px;padding:36px 0 88px}.footer-connect{justify-content:space-between;gap:16px}.footer-credit{justify-content:flex-start;padding-top:22px}}
 
 .site-footer .footer-email{display:inline-flex;align-items:center;gap:10px;min-height:44px}.footer-email svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.5}
+
+/* Commissioned murals: retain each photograph's complete composition. */
+.mural-project-nav{display:flex;flex-wrap:wrap;gap:16px 32px;padding:30px 0;border-bottom:1px solid var(--line)}
+.mural-project-nav a{padding:8px 0;border-bottom:1px solid var(--line)}
+.mural-project{padding:64px 0;border-bottom:1px solid var(--line);scroll-margin-top:110px}
+.mural-project header{max-width:760px;margin-bottom:36px}.mural-project h2{margin-bottom:20px}
+.mural-project figure{margin:0}.mural-project img{display:block;width:100%;height:auto}
+.mural-project-lead{max-width:1000px;margin-inline:auto!important}.mural-project-lead img{max-height:780px;object-fit:contain}
+.mural-project figcaption{font-size:14px;color:var(--muted);padding-top:12px;line-height:1.5}
+.mural-project-details{margin-top:32px}.mural-project-details summary{cursor:pointer;padding:18px 0;border-block:1px solid var(--line)}
+.mural-photo-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:36px;align-items:start;padding-top:32px}
+@media(max-width:760px){.mural-project{padding:40px 0}.mural-photo-grid{grid-template-columns:1fr;gap:28px}.mural-project-nav{gap:12px 24px}}
