@@ -108,3 +108,5 @@
 .artist-studio-document h2{font-size:clamp(32px,4vw,62px);line-height:1.08;margin:24px 0}.artist-studio-document blockquote{margin:0 0 32px;font-size:clamp(18px,2vw,25px);line-height:1.65;color:#c6c3be}
 .artist-statement{max-width:960px;margin:64px auto 96px;padding:40px 0;border-block:1px solid var(--line,#383631)}.artist-statement h2{font-size:clamp(32px,4vw,52px);margin:18px 0 28px}.statement-lead{font-size:clamp(22px,2.4vw,30px);line-height:1.55}.artist-statement details{margin:28px 0}.artist-statement summary{cursor:pointer;min-height:44px;padding:12px 0;text-decoration:underline;text-underline-offset:6px}.statement-body p{font-size:18px;line-height:1.8;max-width:76ch}.statement-author{color:#aaa;font-size:14px;margin-top:28px}
 @media(max-width:760px){.artist-studio-document{grid-template-columns:1fr;padding:40px 0 64px;gap:32px}.artist-statement{margin:40px auto 64px;padding:28px 0}.statement-body p{font-size:17px}.artist-studio-document h2{margin-top:16px}}
+
+.press-undated{margin-top:64px;padding-top:40px;border-top:1px solid var(--line)}.press-items>.press-lead{grid-column:1/-1;margin:0}.press-undated>h2{font-size:clamp(28px,3vw,42px)}
