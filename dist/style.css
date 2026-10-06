@@ -110,3 +110,4 @@
 @media(max-width:760px){.artist-studio-document{grid-template-columns:1fr;padding:40px 0 64px;gap:32px}.artist-statement{margin:40px auto 64px;padding:28px 0}.statement-body p{font-size:17px}.artist-studio-document h2{margin-top:16px}}
 
 .press-undated{margin-top:64px;padding-top:40px;border-top:1px solid var(--line)}.press-items>.press-lead{grid-column:1/-1;margin:0}.press-undated>h2{font-size:clamp(28px,3vw,42px)}
+.footer-social-pending{cursor:default}.footer-social-pending:hover{background:transparent;border-color:var(--line)}
