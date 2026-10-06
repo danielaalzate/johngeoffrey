@@ -536,6 +536,15 @@ window.PORTFOLIO = {
         "eco-globos-dorados",
         "eco-globos-dorados-documental"
       ]
+    },
+    {
+      "id": "sombras-nina-rojo",
+      "series": "juego-de-sombras",
+      "label": "Niña con los brazos elevados sobre fondo rojo",
+      "images": [
+        "sombras-nina-rojo",
+        "sombras-nina-rojo-documental"
+      ]
     }
   ],
   "events": [
@@ -1112,7 +1121,9 @@ window.PORTFOLIO = {
     "cielo-acrilico-satinado-4": "assets/cielo-acrilico-satinado-4.png",
     "batea-acero-documental": "assets/batea-acero-inoxidable-documental.jpeg",
     "eco-globos-dorados": "assets/eco-globos-dorados-transparente.svg",
-    "eco-globos-dorados-documental": "assets/eco-globos-dorados-documental.jpeg"
+    "eco-globos-dorados-documental": "assets/eco-globos-dorados-documental.jpeg",
+    "sombras-nina-rojo": "assets/sombras-nina-rojo-transparente.svg",
+    "sombras-nina-rojo-documental": "assets/sombras-nina-rojo-documental.jpeg"
   },
   "portfolioUpdated": "2026",
   "artistBiography": [
