@@ -361,7 +361,7 @@ window.PORTFOLIO = {
     },
     {
       "id": "sombras-hombre",
-      "series": "juego-de-sombras",
+      "series": "eco-de-luz",
       "label": "Figura masculina sobre fondo rosa",
       "images": [
         "sombras-hombre",
