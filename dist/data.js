@@ -184,7 +184,9 @@ window.PORTFOLIO = {
         "batea-octubre-4",
         "batea-acero-documental"
       ],
-      "description": "La superficie de acero inoxidable refleja el entorno entre grupos de figuras de mineros. Esta obra pertenece a Minería legal, la vertiente escultórica de A cielo abierto."
+      "description": "La superficie de acero inoxidable refleja el entorno entre grupos de figuras de mineros. Esta obra pertenece a Minería legal, la vertiente escultórica de A cielo abierto.",
+      "medium": "Óleo sobre batea de acero",
+      "dimensions": "60 cm de diámetro"
     },
     {
       "id": "batea-asas-reparaciones",
