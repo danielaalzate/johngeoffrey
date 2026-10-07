@@ -1075,7 +1075,7 @@ window.PORTFOLIO = {
     "portfolio-aleacion-1-frontal": "assets/portfolio-aleacion-1-frontal.svg",
     "portfolio-aleacion-2-frontal": "assets/portfolio-aleacion-2-frontal.svg",
     "portfolio-aleacion-3-frontal": "assets/portfolio-aleacion-3-frontal.svg",
-    "portfolio-aleacion-4-frontal": "assets/portfolio-aleacion-4-frontal.svg",
+    "portfolio-aleacion-4-frontal": "assets/portfolio-aleacion-4-frontal-v2.svg",
     "portfolio-aleacion-5-frontal": "assets/portfolio-aleacion-5-frontal-v2.svg",
     "portfolio-eco-circular-naranja-frontal": "assets/portfolio-eco-circular-naranja-frontal.svg",
     "portfolio-eco-circular-verde-frontal": "assets/portfolio-eco-circular-verde-frontal.svg",
