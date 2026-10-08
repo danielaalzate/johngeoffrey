@@ -643,6 +643,14 @@ window.PORTFOLIO = {
       "year": "2022",
       "medium": "Óleo sobre metal",
       "dimensions": "40 × 40 cm"
+    },
+    {
+      "id": "ser-parecer-ladrillos-viga",
+      "series": "ser-y-parecer",
+      "label": "Fractura con ladrillos y viga",
+      "images": [
+        "ser-parecer-ladrillos-viga"
+      ]
     }
   ],
   "events": [
@@ -1231,7 +1239,8 @@ window.PORTFOLIO = {
     "cielo-metal-2022-8": "assets/cielo-metal-2022-8.jpeg",
     "cielo-metal-2022-9": "assets/cielo-metal-2022-9.jpeg",
     "cielo-metal-2022-10": "assets/cielo-metal-2022-10.jpeg",
-    "cielo-metal-2022-verde": "assets/cielo-metal-2022-verde.jpeg"
+    "cielo-metal-2022-verde": "assets/cielo-metal-2022-verde.jpeg",
+    "ser-parecer-ladrillos-viga": "assets/ser-parecer-ladrillos-viga.jpeg"
   },
   "portfolioUpdated": "2026",
   "artistBiography": [
