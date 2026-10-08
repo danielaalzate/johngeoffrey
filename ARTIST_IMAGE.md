@@ -15,3 +15,6 @@ Edit target: supplied monochrome photograph of the real artist painting in his s
 ## Icons
 
 Eye, brush, cube and school: Tabler Icons, MIT license, https://github.com/tabler/tabler-icons.
+
+## Retrato en el banner — 8 octubre 2026
+Se reemplaza el banner con artista-retrato-banner.png (1672 × 941), a partir del retrato aportado el 7 de octubre. Edición con la herramienta integrada de imagen: equilibrar luz/color, mejorar nitidez y textura sin embellecer rasgos; ampliar pared y espejo hacia la derecha para formato 16:9; retirar barra de interfaz del teléfono. El degradado de opacidad se aplica mediante CSS, conservando visible el rostro a la izquierda. Prompt: Preserve exact identity, facial proportions, expression, hairstyle, age, jacket, scarf and earphone cord; restrained medium-format clarity, balanced exposure, natural texture; extend existing brick and mirrored interior to the right, no additional people or artwork.
