@@ -209,10 +209,14 @@ window.PORTFOLIO = {
     {
       "id": "cielo-reflejos-amarillo",
       "series": "a-cielo-abierto",
-      "label": "Figuras y reflejos sobre amarillo",
+      "label": "Tres figuras y reflejos sobre verde",
       "images": [
+        "cielo-metal-2022-verde",
         "cielo-reflejos-amarillo-frontal"
-      ]
+      ],
+      "year": "2022",
+      "medium": "Óleo sobre metal",
+      "dimensions": "40 × 40 cm"
     },
     {
       "id": "cielo-reflejos-rosa",
@@ -230,10 +234,14 @@ window.PORTFOLIO = {
     {
       "id": "cielo-horizonte-metal",
       "series": "a-cielo-abierto",
-      "label": "Figuras y reflejos sobre metal",
+      "label": "Tres figuras y reflejos sobre un horizonte metálico",
       "images": [
+        "cielo-metal-2022-3",
         "cielo-horizonte-metal-frontal"
-      ]
+      ],
+      "year": "2022",
+      "medium": "Óleo sobre metal",
+      "dimensions": "40 × 40 cm"
     },
     {
       "id": "cielo-horizonte-azul-magenta",
@@ -547,6 +555,94 @@ window.PORTFOLIO = {
         "sombras-nina-rojo",
         "sombras-nina-rojo-documental"
       ]
+    },
+    {
+      "id": "cielo-reflejos-turquesa-2022",
+      "series": "a-cielo-abierto",
+      "label": "Dos figuras y reflejos sobre turquesa",
+      "images": [
+        "cielo-metal-2022-1"
+      ],
+      "year": "2022",
+      "medium": "Óleo sobre metal",
+      "dimensions": "40 × 40 cm"
+    },
+    {
+      "id": "cielo-reflejos-coral-2022",
+      "series": "a-cielo-abierto",
+      "label": "Dos figuras y reflejos sobre coral",
+      "images": [
+        "cielo-metal-2022-2"
+      ],
+      "year": "2022",
+      "medium": "Óleo sobre metal",
+      "dimensions": "40 × 40 cm"
+    },
+    {
+      "id": "cielo-reflejos-rosa-grupo-2022",
+      "series": "a-cielo-abierto",
+      "label": "Grupo de figuras y reflejos sobre rosa",
+      "images": [
+        "cielo-metal-2022-4"
+      ],
+      "year": "2022",
+      "medium": "Óleo sobre metal",
+      "dimensions": "40 × 40 cm"
+    },
+    {
+      "id": "cielo-reflejos-amarillo-dos-2022",
+      "series": "a-cielo-abierto",
+      "label": "Dos figuras y reflejos sobre amarillo",
+      "images": [
+        "cielo-metal-2022-5"
+      ],
+      "year": "2022",
+      "medium": "Óleo sobre metal",
+      "dimensions": "40 × 40 cm"
+    },
+    {
+      "id": "cielo-reflejos-menta-2022",
+      "series": "a-cielo-abierto",
+      "label": "Dos figuras y reflejos sobre verde menta",
+      "images": [
+        "cielo-metal-2022-6"
+      ],
+      "year": "2022",
+      "medium": "Óleo sobre metal",
+      "dimensions": "40 × 40 cm"
+    },
+    {
+      "id": "cielo-mineros-fila-2022",
+      "series": "a-cielo-abierto",
+      "label": "Mineros con bateas en una fila",
+      "images": [
+        "cielo-metal-2022-8"
+      ],
+      "year": "2022",
+      "medium": "Óleo sobre metal",
+      "dimensions": "40 × 40 cm"
+    },
+    {
+      "id": "cielo-mineros-grupo-2022",
+      "series": "a-cielo-abierto",
+      "label": "Grupo de mineros con bateas",
+      "images": [
+        "cielo-metal-2022-9"
+      ],
+      "year": "2022",
+      "medium": "Óleo sobre metal",
+      "dimensions": "40 × 40 cm"
+    },
+    {
+      "id": "cielo-mineros-pala-2022",
+      "series": "a-cielo-abierto",
+      "label": "Mineros con bateas y una pala",
+      "images": [
+        "cielo-metal-2022-10"
+      ],
+      "year": "2022",
+      "medium": "Óleo sobre metal",
+      "dimensions": "40 × 40 cm"
     }
   ],
   "events": [
@@ -1125,7 +1221,17 @@ window.PORTFOLIO = {
     "eco-globos-dorados": "assets/eco-globos-dorados-transparente.svg",
     "eco-globos-dorados-documental": "assets/eco-globos-dorados-documental.jpeg",
     "sombras-nina-rojo": "assets/sombras-nina-rojo-transparente.svg",
-    "sombras-nina-rojo-documental": "assets/sombras-nina-rojo-documental.jpeg"
+    "sombras-nina-rojo-documental": "assets/sombras-nina-rojo-documental.jpeg",
+    "cielo-metal-2022-1": "assets/cielo-metal-2022-1.jpeg",
+    "cielo-metal-2022-2": "assets/cielo-metal-2022-2.jpeg",
+    "cielo-metal-2022-3": "assets/cielo-metal-2022-3.jpeg",
+    "cielo-metal-2022-4": "assets/cielo-metal-2022-4.jpeg",
+    "cielo-metal-2022-5": "assets/cielo-metal-2022-5.jpeg",
+    "cielo-metal-2022-6": "assets/cielo-metal-2022-6.jpeg",
+    "cielo-metal-2022-8": "assets/cielo-metal-2022-8.jpeg",
+    "cielo-metal-2022-9": "assets/cielo-metal-2022-9.jpeg",
+    "cielo-metal-2022-10": "assets/cielo-metal-2022-10.jpeg",
+    "cielo-metal-2022-verde": "assets/cielo-metal-2022-verde.jpeg"
   },
   "portfolioUpdated": "2026",
   "artistBiography": [
