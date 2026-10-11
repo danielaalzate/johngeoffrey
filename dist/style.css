@@ -131,3 +131,5 @@
 .services-banner-copy{padding:clamp(28px,4vw,64px);max-width:800px}
 .services-banner-copy h1{margin-bottom:22px}.services-banner-copy p{font-size:20px;margin:0;color:var(--fg)}
 @media(max-width:760px){.services-banner{min-height:460px;margin-bottom:40px}.services-banner .teaching-photo img{object-position:54% center}.services-banner-copy{padding:28px 24px}.services-banner-copy h1{font-size:48px}.services-banner-copy p{font-size:17px}}
+
+.press-item .press-photo{margin:0 0 28px}.press-item .press-photo img{width:100%;margin-top:0}.press-item .press-medium{display:flex;align-items:center;justify-content:center;min-height:240px;padding:48px;background:#fff}.press-item .press-medium img{max-width:380px;height:auto;object-fit:contain}
