@@ -116,3 +116,5 @@
 .press-photo{margin:0 0 28px}.press-photo figcaption{font-size:12px;line-height:1.5;color:var(--muted);margin-top:12px}.press-photo .press-axxis-image{margin-bottom:0}
 
 .teaching-photo{margin:0 0 56px}.teaching-photo img{display:block;width:100%;height:auto;aspect-ratio:1672/941}.teaching-photo figcaption{font-size:13px;color:var(--muted);margin-top:14px}.services-page .teaching-intro{max-width:1000px}@media(max-width:760px){.teaching-photo{margin-bottom:32px}.teaching-photo figcaption{font-size:12px}}
+
+.work-image:has(img[src*='cielo-metal-2022-'][src$='-transparente.svg']),.detail-image:has(img[src*='cielo-metal-2022-'][src$='-transparente.svg']){background:transparent}
