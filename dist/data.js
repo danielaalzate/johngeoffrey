@@ -1235,11 +1235,11 @@ window.PORTFOLIO = {
     "cielo-metal-2022-3": "assets/cielo-metal-2022-3.jpeg",
     "cielo-metal-2022-4": "assets/cielo-metal-2022-4-transparente.svg",
     "cielo-metal-2022-5": "assets/cielo-metal-2022-5-transparente.svg",
-    "cielo-metal-2022-6": "assets/cielo-metal-2022-6.jpeg",
+    "cielo-metal-2022-6": "assets/cielo-metal-2022-6-transparente.svg",
     "cielo-metal-2022-8": "assets/cielo-metal-2022-8.jpeg",
     "cielo-metal-2022-9": "assets/cielo-metal-2022-9.jpeg",
     "cielo-metal-2022-10": "assets/cielo-metal-2022-10.jpeg",
-    "cielo-metal-2022-verde": "assets/cielo-metal-2022-verde.jpeg",
+    "cielo-metal-2022-verde": "assets/cielo-metal-2022-verde-transparente.svg",
     "ser-parecer-ladrillos-viga": "assets/ser-parecer-ladrillos-viga.jpeg"
   },
   "portfolioUpdated": "2026",
