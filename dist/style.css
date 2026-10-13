@@ -158,3 +158,5 @@
 .facebook-video{width:100%;aspect-ratio:16/9;background:#181818;margin-bottom:28px}.facebook-video iframe{display:block;width:100%;height:100%;border:0}
 
 .series-closing-video{margin-top:72px;padding-top:40px;border-top:1px solid var(--line)}.youtube-embed{aspect-ratio:16/9;background:#111010;margin:28px 0 24px}.youtube-embed iframe{display:block;width:100%;height:100%;border:0}@media(max-width:760px){.series-closing-video{margin-top:48px;padding-top:28px}}
+
+.press-pais-cover{display:block;position:relative;background:#191818;margin-bottom:28px}.press-item .press-pais-cover img{width:100%;height:500px;object-fit:contain;margin:0}.press-pais-cover .play{bottom:20px;left:20px}@media(max-width:760px){.press-item .press-pais-cover img{height:440px}}
