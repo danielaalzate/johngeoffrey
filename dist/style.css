@@ -156,3 +156,5 @@
 .gallery-profile-link{display:block;height:100%}.gallery-profile-link:hover h2{color:var(--accent)}
 
 .facebook-video{width:100%;aspect-ratio:16/9;background:#181818;margin-bottom:28px}.facebook-video iframe{display:block;width:100%;height:100%;border:0}
+
+.series-closing-video{margin-top:72px;padding-top:40px;border-top:1px solid var(--line)}.youtube-embed{aspect-ratio:16/9;background:#111010;margin:28px 0 24px}.youtube-embed iframe{display:block;width:100%;height:100%;border:0}@media(max-width:760px){.series-closing-video{margin-top:48px;padding-top:28px}}
