@@ -14,7 +14,7 @@ window.PORTFOLIO = {
       "id": "ser-y-parecer",
       "name": "Ser y parecer",
       "subtitle": "Mirar de nuevo lo que creemos ver.",
-      "text": "En Ser y parecer, John Geoffrey investiga la distancia entre la apariencia y aquello que una superficie parece ocultar. Sus pinturas simulan fracturas y aberturas que invitan a mirar más allá de la primera impresión. La imagen, el soporte y el entorno se relacionan para poner en juego la percepción del espectador.",
+      "text": "En Ser y parecer, John Geoffrey propone perforar pictóricamente la superficie para revelar otra realidad. Fracturas, ladrillos, tuberías y estructuras ocultas relacionan la pintura con la arquitectura y abren una continuidad entre la imagen y el espacio. La superficie deja de ser un simple soporte: se convierte en el problema vivo de la obra, entre la ilusión de lo real y el acto de revelar.",
       "image": "ser-parecer",
       "wall": true,
       "groups": [
@@ -461,7 +461,9 @@ window.PORTFOLIO = {
       "images": [
         "ser-parecer",
         "ser-parecer-documental",
-        "ser-proceso"
+        "ser-proceso",
+        "ser-word-5",
+        "ser-word-4"
       ],
       "description": "Registro de la obra instalada y de su proceso. La apariencia de una excavación atraviesa visualmente el muro y se relaciona con los fragmentos dispuestos en el suelo.",
       "exhibition": "Nuevos Territorios · Galería Casa Cuadrada · Bogotá · 2016"
@@ -649,8 +651,21 @@ window.PORTFOLIO = {
       "series": "ser-y-parecer",
       "label": "Fractura con ladrillos y viga",
       "images": [
-        "ser-parecer-ladrillos-viga"
-      ]
+        "ser-word-3",
+        "ser-word-4"
+      ],
+      "medium": "Óleo sobre lienzo"
+    },
+    {
+      "id": "parecer-lienzo",
+      "series": "ser-y-parecer",
+      "title": "Parecer",
+      "medium": "Óleo sobre lienzo",
+      "images": [
+        "ser-word-2",
+        "ser-word-6"
+      ],
+      "description": "La pintura revela visualmente ladrillos, conducciones y una caja eléctrica detrás de una superficie fracturada. El detalle permite observar cómo la ilusión de profundidad se construye sobre el lienzo."
     }
   ],
   "events": [
@@ -1240,7 +1255,12 @@ window.PORTFOLIO = {
     "cielo-metal-2022-9": "assets/cielo-metal-2022-9.jpeg",
     "cielo-metal-2022-10": "assets/cielo-metal-2022-10.jpeg",
     "cielo-metal-2022-verde": "assets/cielo-metal-2022-verde-transparente.svg",
-    "ser-parecer-ladrillos-viga": "assets/ser-parecer-ladrillos-viga.jpeg"
+    "ser-parecer-ladrillos-viga": "assets/ser-parecer-ladrillos-viga.jpeg",
+    "ser-word-2": "assets/ser-parecer-word-2.jpg",
+    "ser-word-3": "assets/ser-parecer-word-3.jpeg",
+    "ser-word-4": "assets/ser-parecer-word-4.jpg",
+    "ser-word-5": "assets/ser-parecer-word-5.jpg",
+    "ser-word-6": "assets/ser-parecer-word-6.jpg"
   },
   "portfolioUpdated": "2026",
   "artistBiography": [
