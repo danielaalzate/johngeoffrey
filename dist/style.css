@@ -154,3 +154,5 @@
 .work-preview .shadow-animal{font-size:18px;margin:-4px 0 10px;color:var(--muted)}.detail-info .shadow-animal{font-size:24px;margin:-12px 0 28px;color:var(--muted)}
 
 .gallery-profile-link{display:block;height:100%}.gallery-profile-link:hover h2{color:var(--accent)}
+
+.facebook-video{width:100%;aspect-ratio:16/9;background:#181818;margin-bottom:28px}.facebook-video iframe{display:block;width:100%;height:100%;border:0}
