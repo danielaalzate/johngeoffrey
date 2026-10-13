@@ -150,3 +150,5 @@
 /* Keep the series introduction in the left portion of the film. */
 @media(min-width:761px){.series-video-copy{width:47%;max-width:720px;padding-top:34px;padding-bottom:42px}.series-video-copy h1{font-size:clamp(48px,4.7vw,76px);max-width:9ch}.series-video-description{font-size:clamp(16px,1.15vw,18px);max-width:43ch;line-height:1.6}.series-video-copy .back{margin-bottom:28px}.series-video-overlay{background:linear-gradient(90deg,rgba(0,0,0,.82),rgba(0,0,0,.68) 32%,rgba(0,0,0,.15) 65%,rgba(0,0,0,.05)),linear-gradient(0deg,rgba(0,0,0,.2),transparent 70%)}}
 @media(max-width:760px){.series-video-hero{display:block;min-height:0;background:#111010}.series-video-hero video{position:relative;height:56.25vw;object-fit:cover}.series-video-overlay{height:56.25vw;background:linear-gradient(0deg,#111010,transparent 65%)}.series-video-copy{max-width:none;padding:24px var(--space) 36px}.series-video-copy h1{font-size:48px}.series-video-copy .back{margin-bottom:24px}}
+
+.work-preview .shadow-animal{font-size:18px;margin:-4px 0 10px;color:var(--muted)}.detail-info .shadow-animal{font-size:24px;margin:-12px 0 28px;color:var(--muted)}

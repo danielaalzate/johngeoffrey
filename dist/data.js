@@ -289,7 +289,8 @@ window.PORTFOLIO = {
       "exhibition": "CONTEXT Art Miami · 2022",
       "description": "Ficha actualizada según el portafolio 2026 del artista.",
       "title": "Juego de sombras 1",
-      "portfolioPage": 9
+      "portfolioPage": 9,
+      "shadowAnimal": "Perro"
     },
     {
       "id": "sombras-flores",
@@ -339,7 +340,8 @@ window.PORTFOLIO = {
       "year": "2023",
       "medium": "Óleo sobre lámina acrílica y metal",
       "dimensions": "80 cm de diámetro",
-      "portfolioPage": 12
+      "portfolioPage": 12,
+      "shadowAnimal": "Gato"
     },
     {
       "id": "sombras-eli",
@@ -356,7 +358,8 @@ window.PORTFOLIO = {
       "exhibition": "CONTEXT Art Miami · 2022",
       "description": "Ficha actualizada según el portafolio 2026 del artista.",
       "title": "Juego de sombras 2",
-      "portfolioPage": 11
+      "portfolioPage": 11,
+      "shadowAnimal": "Ciervo"
     },
     {
       "id": "sombras-verde",
