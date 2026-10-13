@@ -44,7 +44,7 @@ window.PORTFOLIO = {
           "name": "Minería legal",
           "id": "mineria-legal",
           "heading": "Minería legal · Obra escultórica",
-          "text": "Las bateas constituyen la vertiente escultórica de A cielo abierto. Las figuras de los mineros recorren sus superficies y bordes, acercando el oficio y el territorio a la escala del objeto."
+          "text": "En Minería Legal, el artista propone hacer un análisis oportuno y reflexivo al impacto que ha tenido la minería actual e histórica sobre las comunidades, articulando así, sus diversas formas de participación, la resistencia a la minería mecanizada e ilegal y de cómo llevar este legado minero artesanal a una representación plástica, poniendo en consideración y en evidencia el paisaje minero y sus instalaciones como soporte de la actividad creadora, dando cabida a los nuevos comportamientos artísticos vinculados a los espacios naturales, la historia del lugar y de sus protagonistas."
         }
       ]
     },
