@@ -168,3 +168,5 @@
 @media(max-width:760px){html{scroll-padding-top:92px}.site-header nav.open{max-height:calc(100dvh - 76px);overflow-y:auto;overscroll-behavior:contain}}
 
 #navigation .nav-home[hidden]{display:none}
+
+.site-footer .footer-credit{justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px 24px}.site-footer .footer-copyright{margin:0;font-size:12px;letter-spacing:.025em}
