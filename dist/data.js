@@ -220,7 +220,8 @@ window.PORTFOLIO = {
       "description": "La superficie de acero inoxidable refleja el entorno entre grupos de figuras de mineros. Esta obra pertenece a Minería legal, la vertiente escultórica de A cielo abierto.",
       "medium": "Óleo sobre batea de acero",
       "dimensions": "60 cm de diámetro",
-      "title": "Barequero 4"
+      "title": "Barequero 4",
+      "year": "2016"
     },
     {
       "id": "batea-asas-reparaciones",
