@@ -736,9 +736,10 @@ window.PORTFOLIO = {
       "images": [
         "cielo-metal-2022-10"
       ],
-      "year": "2022",
-      "medium": "Óleo sobre metal",
-      "dimensions": "40 × 40 cm"
+      "year": "2018",
+      "medium": "Óleo sobre madera",
+      "dimensions": "40 × 40 cm",
+      "title": "Minería legal 2"
     },
     {
       "id": "ser-parecer-ladrillos-viga",
