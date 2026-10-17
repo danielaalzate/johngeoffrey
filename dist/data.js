@@ -301,7 +301,9 @@ window.PORTFOLIO = {
         "sombras-flores-documental",
         "sombras-flores-lateral"
       ],
-      "description": "Vista principal con fondo transparente y fotografías documentales de una obra incorporada al portafolio. El título, la técnica, las medidas y el año se confirmarán con el artista."
+      "description": "Vista principal con fondo transparente y fotografías documentales de una obra incorporada al portafolio. La técnica, las medidas y el año se confirmarán con el artista.",
+      "title": "Juego de sombras 2",
+      "shadowAnimal": "Conejo"
     },
     {
       "id": "sombras-naranja",
@@ -313,7 +315,9 @@ window.PORTFOLIO = {
       "images": [
         "sombras-naranja",
         "sombras-naranja-documental"
-      ]
+      ],
+      "title": "Juego de sombras 3",
+      "shadowAnimal": "Cisne"
     },
     {
       "id": "sombras-rosa",
@@ -325,12 +329,14 @@ window.PORTFOLIO = {
         "sombras-rosa",
         "sombras-rosa-documental"
       ],
-      "exhibition": "CONTEXT Art Miami · Galería Casa Cuadrada"
+      "exhibition": "CONTEXT Art Miami · Galería Casa Cuadrada",
+      "title": "Juego de sombras 4",
+      "shadowAnimal": "Lorito"
     },
     {
       "id": "sombras-pinceles",
       "series": "juego-de-sombras",
-      "title": "Juego de sombras 3",
+      "title": "Juego de sombras 5",
       "images": [
         "portfolio-sombras-3-frontal",
         "portfolio-p12-00-Image70",
@@ -357,7 +363,7 @@ window.PORTFOLIO = {
       ],
       "exhibition": "CONTEXT Art Miami · 2022",
       "description": "Ficha actualizada según el portafolio 2026 del artista.",
-      "title": "Juego de sombras 2",
+      "title": "Juego de sombras 6",
       "portfolioPage": 11,
       "shadowAnimal": "Ciervo"
     },
@@ -559,7 +565,9 @@ window.PORTFOLIO = {
       "images": [
         "sombras-nina-rojo",
         "sombras-nina-rojo-documental"
-      ]
+      ],
+      "title": "Juego de sombras 7",
+      "shadowAnimal": "Paloma"
     },
     {
       "id": "cielo-reflejos-turquesa-2022",
