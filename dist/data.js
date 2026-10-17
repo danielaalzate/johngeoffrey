@@ -809,7 +809,21 @@ window.PORTFOLIO = {
       "images": [
         "eco-suspension"
       ],
-      "pinnedLast": true
+      "pinnedLast": true,
+      "endOrder": 1
+    },
+    {
+      "id": "eco-corazoncito",
+      "series": "eco-de-luz",
+      "title": "Corazoncito",
+      "year": "2026",
+      "medium": "Óleo sobre lámina acrílica y fondo de metal",
+      "dimensions": "85 cm de diámetro",
+      "images": [
+        "eco-corazoncito"
+      ],
+      "pinnedLast": true,
+      "endOrder": 2
     }
   ],
   "events": [
@@ -1412,7 +1426,8 @@ window.PORTFOLIO = {
     "ser-fractura-horizontal": "assets/ser-fractura-horizontal-transparente.png",
     "ser-fractura-ladrillo-yeso": "assets/ser-fractura-ladrillo-yeso-transparente.png",
     "ser-fractura-gris": "assets/ser-fractura-original-sin-fondo.png",
-    "eco-suspension": "assets/eco-suspension-original-transparente.png"
+    "eco-suspension": "assets/eco-suspension-original-transparente.png",
+    "eco-corazoncito": "assets/eco-corazoncito-original-transparente.png"
   },
   "portfolioUpdated": "2026",
   "artistBiography": [
