@@ -657,7 +657,8 @@ window.PORTFOLIO = {
       ],
       "year": "2022",
       "medium": "Óleo sobre metal",
-      "dimensions": "40 × 40 cm"
+      "dimensions": "40 × 40 cm",
+      "title": "Reflejos 3"
     },
     {
       "id": "cielo-reflejos-coral-2022",
@@ -668,7 +669,8 @@ window.PORTFOLIO = {
       ],
       "year": "2022",
       "medium": "Óleo sobre metal",
-      "dimensions": "40 × 40 cm"
+      "dimensions": "40 × 40 cm",
+      "title": "Reflejos 4"
     },
     {
       "id": "cielo-reflejos-rosa-grupo-2022",
