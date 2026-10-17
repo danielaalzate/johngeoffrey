@@ -14,7 +14,7 @@ window.PORTFOLIO = {
       "id": "ser-y-parecer",
       "name": "Ser y parecer",
       "subtitle": "Mirar de nuevo lo que creemos ver.",
-      "text": "En Ser y parecer, John Geoffrey propone perforar pictóricamente la superficie para revelar otra realidad. Fracturas, ladrillos, tuberías y estructuras ocultas relacionan la pintura con la arquitectura y abren una continuidad entre la imagen y el espacio. La superficie deja de ser un simple soporte: se convierte en el problema vivo de la obra, entre la ilusión de lo real y el acto de revelar.",
+      "text": "En Ser y parecer, John Geoffrey Sánchez explora la relación entre pintura y arquitectura mediante la ilusión de perforar la superficie y revelar lo que permanece oculto. Ladrillos, tuberías y fracturas ponen en juego el ser y el parecer: la superficie deja de ser un simple soporte para convertirse en un espacio que es, a la vez, objeto e imagen.",
       "image": "ser-parecer",
       "wall": true,
       "groups": [
