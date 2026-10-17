@@ -703,7 +703,8 @@ window.PORTFOLIO = {
       ],
       "year": "2022",
       "medium": "Óleo sobre metal",
-      "dimensions": "40 × 40 cm"
+      "dimensions": "40 × 40 cm",
+      "title": "Reflejos 5"
     },
     {
       "id": "cielo-mineros-fila-2022",
