@@ -824,6 +824,19 @@ window.PORTFOLIO = {
       ],
       "pinnedLast": true,
       "endOrder": 2
+    },
+    {
+      "id": "eco-instante-magico",
+      "series": "eco-de-luz",
+      "title": "Un instante mágico",
+      "year": "2026",
+      "medium": "Óleo sobre lámina acrílica y fondo de metal",
+      "dimensions": "85 cm de diámetro",
+      "images": [
+        "eco-instante-magico"
+      ],
+      "pinnedLast": true,
+      "endOrder": 3
     }
   ],
   "events": [
@@ -1427,7 +1440,8 @@ window.PORTFOLIO = {
     "ser-fractura-ladrillo-yeso": "assets/ser-fractura-ladrillo-yeso-transparente.png",
     "ser-fractura-gris": "assets/ser-fractura-original-sin-fondo.png",
     "eco-suspension": "assets/eco-suspension-original-transparente.png",
-    "eco-corazoncito": "assets/eco-corazoncito-original-transparente.png"
+    "eco-corazoncito": "assets/eco-corazoncito-original-transparente.png",
+    "eco-instante-magico": "assets/eco-instante-magico-original-transparente.png"
   },
   "portfolioUpdated": "2026",
   "artistBiography": [
