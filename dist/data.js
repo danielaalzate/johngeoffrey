@@ -798,6 +798,18 @@ window.PORTFOLIO = {
       "title": "Pintura Radiográfica 6",
       "year": "2015",
       "medium": "Óleo sobre lienzo"
+    },
+    {
+      "id": "eco-suspension",
+      "series": "eco-de-luz",
+      "title": "Suspensión",
+      "year": "2026",
+      "medium": "Óleo sobre lámina acrílica y fondo de metal",
+      "dimensions": "85 cm de diámetro",
+      "images": [
+        "eco-suspension"
+      ],
+      "pinnedLast": true
     }
   ],
   "events": [
@@ -1399,7 +1411,8 @@ window.PORTFOLIO = {
     "ser-word-1": "assets/ser-parecer-word-1.jpeg",
     "ser-fractura-horizontal": "assets/ser-fractura-horizontal-transparente.png",
     "ser-fractura-ladrillo-yeso": "assets/ser-fractura-ladrillo-yeso-transparente.png",
-    "ser-fractura-gris": "assets/ser-fractura-original-sin-fondo.png"
+    "ser-fractura-gris": "assets/ser-fractura-original-sin-fondo.png",
+    "eco-suspension": "assets/eco-suspension-original-transparente.png"
   },
   "portfolioUpdated": "2026",
   "artistBiography": [
