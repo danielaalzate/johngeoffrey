@@ -764,6 +764,33 @@ window.PORTFOLIO = {
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
       "dimensions": "50 × 50 cm",
       "year": "2026"
+    },
+    {
+      "id": "ser-fractura-horizontal",
+      "series": "ser-y-parecer",
+      "label": "Fractura horizontal con ladrillos",
+      "images": [
+        "ser-fractura-horizontal",
+        "ser-word-4"
+      ]
+    },
+    {
+      "id": "ser-fractura-ladrillo-yeso",
+      "series": "ser-y-parecer",
+      "label": "Fractura con ladrillos y yeso",
+      "images": [
+        "ser-fractura-ladrillo-yeso",
+        "ser-word-4"
+      ]
+    },
+    {
+      "id": "ser-fractura-gris",
+      "series": "ser-y-parecer",
+      "label": "Fractura gris",
+      "images": [
+        "ser-fractura-gris",
+        "ser-word-4"
+      ]
     }
   ],
   "events": [
@@ -1361,8 +1388,11 @@ window.PORTFOLIO = {
     "ser-word-6": "assets/ser-parecer-word-6.jpg",
     "eco-hombre-botas-amarillo": "assets/eco-figura-botas-amarillo-2026-10.svg",
     "eco-mujer-camiseta-amarilla": "assets/eco-figura-camiseta-amarilla-2026-10.svg",
-    "ser-caja-principal": "assets/ser-parecer-caja-principal.svg",
-    "ser-word-1": "assets/ser-parecer-word-1.jpeg"
+    "ser-caja-principal": "assets/ser-parecer-caja-transparente.png",
+    "ser-word-1": "assets/ser-parecer-word-1.jpeg",
+    "ser-fractura-horizontal": "assets/ser-fractura-horizontal-transparente.png",
+    "ser-fractura-ladrillo-yeso": "assets/ser-fractura-ladrillo-yeso-transparente.png",
+    "ser-fractura-gris": "assets/ser-fractura-gris-transparente.png"
   },
   "portfolioUpdated": "2026",
   "artistBiography": [
