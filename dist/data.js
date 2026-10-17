@@ -399,8 +399,8 @@ window.PORTFOLIO = {
       "description": "La obra circular aparece dentro de Eco de luz en el portafolio 2026 del artista.",
       "portfolioPage": 8,
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
-      "dimensions": "50 × 50 cm",
-      "year": "2026"
+      "year": "2021",
+      "hideDimensions": true
     },
     {
       "id": "sombras-hombre",
