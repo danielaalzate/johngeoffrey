@@ -777,7 +777,8 @@ window.PORTFOLIO = {
         "ser-fractura-ladrillo-yeso",
         "ser-word-4"
       ],
-      "title": "Pintura Radiográfica 5"
+      "title": "Pintura Radiográfica 5",
+      "year": "2015"
     },
     {
       "id": "ser-fractura-gris",
@@ -787,7 +788,8 @@ window.PORTFOLIO = {
         "ser-fractura-gris",
         "ser-word-4"
       ],
-      "title": "Pintura Radiográfica 6"
+      "title": "Pintura Radiográfica 6",
+      "year": "2015"
     }
   ],
   "events": [
