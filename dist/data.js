@@ -723,7 +723,8 @@ window.PORTFOLIO = {
         "ser-word-3",
         "ser-word-4"
       ],
-      "medium": "Óleo sobre lienzo"
+      "medium": "Óleo sobre lienzo",
+      "year": "2016"
     },
     {
       "id": "parecer-lienzo",
