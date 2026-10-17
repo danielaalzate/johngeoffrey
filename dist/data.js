@@ -296,28 +296,6 @@ window.PORTFOLIO = {
       ]
     },
     {
-      "id": "cielo-danza",
-      "series": "a-cielo-abierto",
-      "label": "Figura en movimiento sobre fondo azul",
-      "medium": "Óleo sobre panel acrílico y metal",
-      "dimensions": "80 cm de diámetro",
-      "images": [
-        "cielo-danza",
-        "cielo-danza-documental"
-      ]
-    },
-    {
-      "id": "cielo-globos",
-      "series": "a-cielo-abierto",
-      "label": "Figura en salto con globos dorados",
-      "medium": "Óleo sobre panel acrílico y metal",
-      "images": [
-        "cielo-globos",
-        "cielo-globos-documental"
-      ],
-      "description": "La documentación aportada refiere una versión de 120 cm de diámetro anunciada para CONTEXT Art Miami 2021. Datarte registra una imagen similar como A cielo abierto2, de 2022 y 80 × 80 × 12 cm. La ficha de esta fotografía se confirmará con el artista."
-    },
-    {
       "id": "sombras-amarillo",
       "series": "juego-de-sombras",
       "label": "Figura con camisa azul y naranja",
