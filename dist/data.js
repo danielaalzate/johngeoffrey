@@ -352,7 +352,7 @@ window.PORTFOLIO = {
     {
       "id": "sombras-pinceles",
       "series": "juego-de-sombras",
-      "title": "Gato",
+      "title": "Lila",
       "images": [
         "portfolio-sombras-3-frontal",
         "portfolio-p12-00-Image70",
