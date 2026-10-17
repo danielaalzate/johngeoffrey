@@ -365,7 +365,7 @@ window.PORTFOLIO = {
         "portfolio-p12-01-Image71"
       ],
       "description": "Ficha actualizada según el portafolio 2026 del artista.",
-      "year": "2023",
+      "year": "2022",
       "medium": "Óleo sobre lámina acrílica y metal",
       "dimensions": "80 cm de diámetro",
       "portfolioPage": 12,
