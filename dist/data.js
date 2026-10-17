@@ -391,7 +391,9 @@ window.PORTFOLIO = {
         "sombras-flores-lateral"
       ],
       "description": "Vista principal con fondo transparente y fotografías documentales de una obra incorporada al portafolio. La técnica, las medidas y el año se confirmarán con el artista.",
-      "title": "Conejo"
+      "title": "Conejo",
+      "year": "2025",
+      "dimensions": "50 cm de diámetro"
     },
     {
       "id": "cielo-horizonte-verde",
@@ -614,7 +616,9 @@ window.PORTFOLIO = {
         "sombras-nina-rojo",
         "sombras-nina-rojo-documental"
       ],
-      "title": "Paloma"
+      "title": "Paloma",
+      "year": "2024",
+      "dimensions": "50 cm de diámetro"
     },
     {
       "id": "cielo-reflejos-turquesa-2022",
