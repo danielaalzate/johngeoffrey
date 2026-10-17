@@ -604,8 +604,8 @@ window.PORTFOLIO = {
       ],
       "title": "Eco de luz 11",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
-      "dimensions": "50 × 50 cm",
-      "year": "2026"
+      "dimensions": "120 cm de diámetro",
+      "year": "2021"
     },
     {
       "id": "sombras-nina-rojo",
