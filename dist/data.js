@@ -333,8 +333,7 @@ window.PORTFOLIO = {
         "sombras-naranja",
         "sombras-naranja-documental"
       ],
-      "title": "Juego de sombras 2",
-      "shadowAnimal": "Cisne"
+      "title": "Cisne"
     },
     {
       "id": "sombras-rosa",
@@ -347,14 +346,13 @@ window.PORTFOLIO = {
         "sombras-rosa-documental"
       ],
       "exhibition": "CONTEXT Art Miami · Galería Casa Cuadrada",
-      "title": "Juego de sombras 3",
-      "shadowAnimal": "Lorito",
+      "title": "Lorito",
       "year": "2022"
     },
     {
       "id": "sombras-pinceles",
       "series": "juego-de-sombras",
-      "title": "Juego de sombras 4",
+      "title": "Gato",
       "images": [
         "portfolio-sombras-3-frontal",
         "portfolio-p12-00-Image70",
@@ -364,8 +362,7 @@ window.PORTFOLIO = {
       "year": "2022",
       "medium": "Óleo sobre lámina acrílica y metal",
       "dimensions": "80 cm de diámetro",
-      "portfolioPage": 12,
-      "shadowAnimal": "Gato"
+      "portfolioPage": 12
     },
     {
       "id": "sombras-eli",
@@ -381,9 +378,8 @@ window.PORTFOLIO = {
       ],
       "exhibition": "CONTEXT Art Miami · 2022",
       "description": "Ficha actualizada según el portafolio 2026 del artista.",
-      "title": "Juego de sombras 5",
-      "portfolioPage": 11,
-      "shadowAnimal": "Ciervo"
+      "title": "Ciervo",
+      "portfolioPage": 11
     },
     {
       "id": "sombras-flores",
@@ -395,8 +391,7 @@ window.PORTFOLIO = {
         "sombras-flores-lateral"
       ],
       "description": "Vista principal con fondo transparente y fotografías documentales de una obra incorporada al portafolio. La técnica, las medidas y el año se confirmarán con el artista.",
-      "title": "Juego de sombras 6",
-      "shadowAnimal": "Conejo"
+      "title": "Conejo"
     },
     {
       "id": "cielo-horizonte-verde",
@@ -619,8 +614,7 @@ window.PORTFOLIO = {
         "sombras-nina-rojo",
         "sombras-nina-rojo-documental"
       ],
-      "title": "Juego de sombras 7",
-      "shadowAnimal": "Paloma"
+      "title": "Paloma"
     },
     {
       "id": "cielo-reflejos-turquesa-2022",
