@@ -771,7 +771,8 @@ window.PORTFOLIO = {
       "images": [
         "ser-fractura-horizontal",
         "ser-word-4"
-      ]
+      ],
+      "year": "2015"
     },
     {
       "id": "ser-fractura-ladrillo-yeso",
