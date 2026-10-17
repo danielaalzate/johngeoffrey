@@ -119,7 +119,10 @@ window.PORTFOLIO = {
       "medium": "Óleo sobre láminas de acrílico satinado",
       "images": [
         "cielo-acrilico-satinado-1"
-      ]
+      ],
+      "title": "Círculo 1",
+      "year": "2025",
+      "dimensions": "65 cm de diámetro"
     },
     {
       "id": "cielo-acrilico-satinado-personas",
@@ -129,7 +132,10 @@ window.PORTFOLIO = {
       "medium": "Óleo sobre láminas de acrílico satinado",
       "images": [
         "cielo-acrilico-satinado-2"
-      ]
+      ],
+      "title": "Círculo 2",
+      "year": "2025",
+      "dimensions": "65 cm de diámetro"
     },
     {
       "id": "cielo-acrilico-rosa-verde",
