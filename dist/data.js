@@ -153,7 +153,7 @@ window.PORTFOLIO = {
       "images": [
         "cielo-acrilico-satinado-3"
       ],
-      "title": "A cielo abierto 1",
+      "title": "A cielo abierto 5",
       "year": "2025",
       "dimensions": "130 × 130 cm"
     },
@@ -166,7 +166,7 @@ window.PORTFOLIO = {
       "images": [
         "cielo-acrilico-satinado-4"
       ],
-      "title": "A cielo abierto 2",
+      "title": "A cielo abierto 6",
       "year": "2025",
       "dimensions": "130 × 130 cm"
     },
@@ -277,7 +277,7 @@ window.PORTFOLIO = {
       "images": [
         "portfolio-p16-00-Image85"
       ],
-      "title": "A cielo abierto",
+      "title": "A cielo abierto 1",
       "year": "2023",
       "medium": "Óleo sobre panel acrílico",
       "dimensions": "30 × 30 cm",
@@ -474,7 +474,7 @@ window.PORTFOLIO = {
     {
       "id": "cielo-violeta-verde-2024",
       "series": "a-cielo-abierto",
-      "title": "A cielo abierto",
+      "title": "A cielo abierto 4",
       "year": "2024",
       "medium": "Óleo sobre panel acrílico",
       "dimensions": "100 × 100 cm",
@@ -486,7 +486,7 @@ window.PORTFOLIO = {
     {
       "id": "cielo-metal-amarillo-2023",
       "series": "a-cielo-abierto",
-      "title": "A cielo abierto",
+      "title": "A cielo abierto 2",
       "year": "2023",
       "medium": "Óleo sobre panel acrílico",
       "dimensions": "30 × 30 cm",
@@ -500,7 +500,7 @@ window.PORTFOLIO = {
     {
       "id": "cielo-amarillo-metal-2023",
       "series": "a-cielo-abierto",
-      "title": "A cielo abierto",
+      "title": "A cielo abierto 3",
       "year": "2023",
       "medium": "Óleo sobre panel acrílico",
       "dimensions": "30 × 30 cm",
