@@ -737,7 +737,8 @@ window.PORTFOLIO = {
         "ser-word-1",
         "ser-word-6"
       ],
-      "description": "La pintura revela visualmente ladrillos, conducciones y una caja eléctrica detrás de una superficie fracturada. La vista de instalación muestra su relación con el espacio y los escombros; el detalle permite observar cómo la ilusión de profundidad se construye sobre el lienzo."
+      "description": "La pintura revela visualmente ladrillos, conducciones y una caja eléctrica detrás de una superficie fracturada. La vista de instalación muestra su relación con el espacio y los escombros; el detalle permite observar cómo la ilusión de profundidad se construye sobre el lienzo.",
+      "year": "2015"
     },
     {
       "id": "eco-figura-espaldas",
