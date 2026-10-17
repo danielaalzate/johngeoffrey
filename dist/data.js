@@ -319,9 +319,8 @@ window.PORTFOLIO = {
       ],
       "exhibition": "CONTEXT Art Miami · 2022",
       "description": "Ficha actualizada según el portafolio 2026 del artista.",
-      "title": "Juego de sombras 1",
-      "portfolioPage": 9,
-      "shadowAnimal": "Perro"
+      "title": "Rem",
+      "portfolioPage": 9
     },
     {
       "id": "sombras-naranja",
