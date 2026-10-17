@@ -514,17 +514,18 @@ window.PORTFOLIO = {
       "portfolioPage": 15
     },
     {
-      "id": "ser-parecer",
+      "id": "parecer-lienzo",
       "series": "ser-y-parecer",
-      "title": "Ser y parecer",
-      "year": "2016",
+      "title": "Pintura Radiográfica 1",
+      "medium": "Pintura instalada con escombros, óleo sobre lienzo",
       "images": [
-        "ser-parecer",
-        "ser-parecer-documental",
-        "ser-proceso"
+        "ser-caja-principal",
+        "ser-word-2",
+        "ser-word-1",
+        "ser-word-6"
       ],
-      "description": "Registro de la obra instalada y de su proceso. La apariencia de una excavación atraviesa visualmente el muro y se relaciona con los fragmentos dispuestos en el suelo.",
-      "exhibition": "Nuevos Territorios · Galería Casa Cuadrada · Bogotá · 2016"
+      "description": "La pintura revela visualmente ladrillos, conducciones y una caja eléctrica detrás de una superficie fracturada. La vista de instalación muestra su relación con el espacio y los escombros; el detalle permite observar cómo la ilusión de profundidad se construye sobre el lienzo.",
+      "year": "2015"
     },
     {
       "id": "aleacion-1",
@@ -716,29 +717,28 @@ window.PORTFOLIO = {
       "title": "Minería legal 2"
     },
     {
-      "id": "ser-parecer-ladrillos-viga",
+      "id": "ser-fractura-horizontal",
       "series": "ser-y-parecer",
-      "label": "Fractura con ladrillos y viga",
+      "label": "Fractura horizontal con ladrillos",
       "images": [
-        "ser-word-3",
+        "ser-fractura-horizontal",
         "ser-word-4"
       ],
-      "medium": "Óleo sobre lienzo",
-      "year": "2016"
+      "year": "2015",
+      "title": "Pintura Radiográfica 2"
     },
     {
-      "id": "parecer-lienzo",
+      "id": "ser-parecer",
       "series": "ser-y-parecer",
-      "title": "Parecer",
-      "medium": "Pintura instalada con escombros, óleo sobre lienzo",
+      "title": "Pintura Radiográfica 3",
+      "year": "2016",
       "images": [
-        "ser-caja-principal",
-        "ser-word-2",
-        "ser-word-1",
-        "ser-word-6"
+        "ser-parecer",
+        "ser-parecer-documental",
+        "ser-proceso"
       ],
-      "description": "La pintura revela visualmente ladrillos, conducciones y una caja eléctrica detrás de una superficie fracturada. La vista de instalación muestra su relación con el espacio y los escombros; el detalle permite observar cómo la ilusión de profundidad se construye sobre el lienzo.",
-      "year": "2015"
+      "description": "Registro de la obra instalada y de su proceso. La apariencia de una excavación atraviesa visualmente el muro y se relaciona con los fragmentos dispuestos en el suelo.",
+      "exhibition": "Nuevos Territorios · Galería Casa Cuadrada · Bogotá · 2016"
     },
     {
       "id": "eco-figura-espaldas",
@@ -765,14 +765,16 @@ window.PORTFOLIO = {
       "title": "Eco de luz 1"
     },
     {
-      "id": "ser-fractura-horizontal",
+      "id": "ser-parecer-ladrillos-viga",
       "series": "ser-y-parecer",
-      "label": "Fractura horizontal con ladrillos",
+      "label": "Fractura con ladrillos y viga",
       "images": [
-        "ser-fractura-horizontal",
+        "ser-word-3",
         "ser-word-4"
       ],
-      "year": "2015"
+      "medium": "Óleo sobre lienzo",
+      "year": "2016",
+      "title": "Pintura Radiográfica 4"
     },
     {
       "id": "ser-fractura-ladrillo-yeso",
@@ -781,7 +783,8 @@ window.PORTFOLIO = {
       "images": [
         "ser-fractura-ladrillo-yeso",
         "ser-word-4"
-      ]
+      ],
+      "title": "Pintura Radiográfica 5"
     },
     {
       "id": "ser-fractura-gris",
@@ -790,7 +793,8 @@ window.PORTFOLIO = {
       "images": [
         "ser-fractura-gris",
         "ser-word-4"
-      ]
+      ],
+      "title": "Pintura Radiográfica 6"
     }
   ],
   "events": [
