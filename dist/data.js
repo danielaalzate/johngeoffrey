@@ -58,6 +58,17 @@ window.PORTFOLIO = {
   ],
   "works": [
     {
+      "id": "eco-hombre-botas-amarillo",
+      "series": "eco-de-luz",
+      "label": "Figura con botas sobre fondo amarillo",
+      "year": "2019",
+      "medium": "Óleo sobre lámina acrílica y fondo metálico",
+      "images": [
+        "eco-hombre-botas-amarillo"
+      ],
+      "title": "Eco de luz 1"
+    },
+    {
       "id": "eco-lectura-rojo",
       "series": "eco-de-luz",
       "label": "Figura con un libro en un espacio rojo",
@@ -66,7 +77,7 @@ window.PORTFOLIO = {
       ],
       "description": "Personaje pintado sobre acrílico translúcido frente a una estructura metálica. Obra incluida en Eco de luz en el portafolio 2026.",
       "portfolioPage": 6,
-      "title": "Eco de luz 1",
+      "title": "Eco de luz 2",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
       "year": "2020",
       "hideDimensions": true
@@ -79,7 +90,7 @@ window.PORTFOLIO = {
         "portfolio-p07-00-Image40"
       ],
       "portfolioPage": 7,
-      "title": "Eco de luz 2",
+      "title": "Eco de luz 3",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
       "dimensions": "50 × 50 cm",
       "year": "2020"
@@ -92,23 +103,9 @@ window.PORTFOLIO = {
         "portfolio-p07-01-Image41"
       ],
       "portfolioPage": 7,
-      "title": "Eco de luz 3",
+      "title": "Eco de luz 4",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
       "year": "2020",
-      "hideDimensions": true
-    },
-    {
-      "id": "sombras-verde",
-      "series": "eco-de-luz",
-      "title": "Eco de luz 4",
-      "images": [
-        "portfolio-eco-circular-verde-frontal",
-        "sombras-verde-documental"
-      ],
-      "description": "La obra circular aparece dentro de Eco de luz en el portafolio 2026 del artista.",
-      "portfolioPage": 8,
-      "medium": "Óleo sobre lámina acrílica y fondo metálico",
-      "year": "2021",
       "hideDimensions": true
     },
     {
@@ -238,16 +235,18 @@ window.PORTFOLIO = {
       "year": "2025"
     },
     {
-      "id": "cielo-horizonte-verde",
+      "id": "sombras-verde",
       "series": "eco-de-luz",
-      "label": "Figuras sobre planos de metal y verde",
+      "title": "Eco de luz 5",
       "images": [
-        "cielo-horizonte-verde-frontal"
+        "portfolio-eco-circular-verde-frontal",
+        "sombras-verde-documental"
       ],
+      "description": "La obra circular aparece dentro de Eco de luz en el portafolio 2026 del artista.",
+      "portfolioPage": 8,
+      "medium": "Óleo sobre lámina acrílica y fondo metálico",
       "year": "2021",
-      "medium": "Óleo sobre lámina de acero inoxidable",
-      "dimensions": "30 × 30 cm",
-      "title": "Eco de luz 5"
+      "hideDimensions": true
     },
     {
       "id": "cielo-reflejos-amarillo",
@@ -414,6 +413,18 @@ window.PORTFOLIO = {
       "shadowAnimal": "Conejo"
     },
     {
+      "id": "cielo-horizonte-verde",
+      "series": "eco-de-luz",
+      "label": "Figuras sobre planos de metal y verde",
+      "images": [
+        "cielo-horizonte-verde-frontal"
+      ],
+      "year": "2021",
+      "medium": "Óleo sobre lámina de acero inoxidable",
+      "dimensions": "30 × 30 cm",
+      "title": "Eco de luz 6"
+    },
+    {
       "id": "sombras-hombre",
       "series": "eco-de-luz",
       "label": "Figura masculina sobre fondo rosa",
@@ -421,7 +432,7 @@ window.PORTFOLIO = {
         "sombras-hombre",
         "sombras-hombre-documental"
       ],
-      "title": "Eco de luz 6",
+      "title": "Eco de luz 7",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
       "year": "2021",
       "hideDimensions": true
@@ -434,10 +445,21 @@ window.PORTFOLIO = {
         "eco-globos-dorados",
         "eco-globos-dorados-documental"
       ],
-      "title": "Eco de luz 7",
+      "title": "Eco de luz 8",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
       "dimensions": "120 cm de diámetro",
       "year": "2021"
+    },
+    {
+      "id": "eco-mujer-camiseta-amarilla",
+      "series": "eco-de-luz",
+      "label": "Figura con camiseta amarilla y sombras",
+      "year": "2021",
+      "medium": "Óleo sobre lámina acrílica y fondo metálico",
+      "images": [
+        "eco-mujer-camiseta-amarilla"
+      ],
+      "title": "Eco de luz 9"
     },
     {
       "id": "caja-rayas",
@@ -451,7 +473,7 @@ window.PORTFOLIO = {
       ],
       "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
       "description": "Una figura se detiene ante planos curvos de franjas turquesa y negras. El marco, la imagen y la profundidad de la caja proponen distintas lecturas al cambiar de posición.",
-      "title": "Eco de luz 8",
+      "title": "Eco de luz 10",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
       "dimensions": "50 × 50 cm",
       "year": "2026"
@@ -463,36 +485,6 @@ window.PORTFOLIO = {
       "images": [
         "caja-hombre-frontal",
         "caja-hombre"
-      ],
-      "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
-      "title": "Eco de luz 9",
-      "medium": "Óleo sobre lámina acrílica y fondo metálico",
-      "dimensions": "50 × 50 cm",
-      "year": "2026"
-    },
-    {
-      "id": "caja-vestido",
-      "series": "eco-de-luz",
-      "label": "Figura ante planos violeta y amarillo",
-      "images": [
-        "caja-vestido-frontal",
-        "caja-vestido",
-        "cajas-dos"
-      ],
-      "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
-      "title": "Eco de luz 10",
-      "medium": "Óleo sobre lámina acrílica y fondo metálico",
-      "dimensions": "50 × 50 cm",
-      "year": "2026"
-    },
-    {
-      "id": "caja-lectura",
-      "series": "eco-de-luz",
-      "label": "Figura reclinada con un libro",
-      "images": [
-        "caja-lectura-frontal",
-        "caja-lectura",
-        "cajas-dos"
       ],
       "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
       "title": "Eco de luz 11",
@@ -626,13 +618,15 @@ window.PORTFOLIO = {
       "description": "Ficha actualizada según el portafolio 2026 del artista."
     },
     {
-      "id": "eco-circular-naranja",
+      "id": "caja-vestido",
       "series": "eco-de-luz",
-      "label": "Figura con los brazos elevados sobre naranja",
+      "label": "Figura ante planos violeta y amarillo",
       "images": [
-        "portfolio-eco-circular-naranja-frontal"
+        "caja-vestido-frontal",
+        "caja-vestido",
+        "cajas-dos"
       ],
-      "portfolioPage": 8,
+      "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
       "title": "Eco de luz 12",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
       "dimensions": "50 × 50 cm",
@@ -762,6 +756,34 @@ window.PORTFOLIO = {
         "ser-word-6"
       ],
       "description": "La pintura revela visualmente ladrillos, conducciones y una caja eléctrica detrás de una superficie fracturada. El detalle permite observar cómo la ilusión de profundidad se construye sobre el lienzo."
+    },
+    {
+      "id": "caja-lectura",
+      "series": "eco-de-luz",
+      "label": "Figura reclinada con un libro",
+      "images": [
+        "caja-lectura-frontal",
+        "caja-lectura",
+        "cajas-dos"
+      ],
+      "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
+      "title": "Eco de luz 13",
+      "medium": "Óleo sobre lámina acrílica y fondo metálico",
+      "dimensions": "50 × 50 cm",
+      "year": "2026"
+    },
+    {
+      "id": "eco-circular-naranja",
+      "series": "eco-de-luz",
+      "label": "Figura con los brazos elevados sobre naranja",
+      "images": [
+        "portfolio-eco-circular-naranja-frontal"
+      ],
+      "portfolioPage": 8,
+      "title": "Eco de luz 14",
+      "medium": "Óleo sobre lámina acrílica y fondo metálico",
+      "dimensions": "50 × 50 cm",
+      "year": "2026"
     }
   ],
   "events": [
@@ -1356,7 +1378,9 @@ window.PORTFOLIO = {
     "ser-word-3": "assets/ser-parecer-word-3.jpeg",
     "ser-word-4": "assets/ser-parecer-word-4.jpg",
     "ser-word-5": "assets/ser-parecer-word-5.jpg",
-    "ser-word-6": "assets/ser-parecer-word-6.jpg"
+    "ser-word-6": "assets/ser-parecer-word-6.jpg",
+    "eco-hombre-botas-amarillo": "assets/eco-figura-botas-amarillo-2026-10.svg",
+    "eco-mujer-camiseta-amarilla": "assets/eco-figura-camiseta-amarilla-2026-10.svg"
   },
   "portfolioUpdated": "2026",
   "artistBiography": [
