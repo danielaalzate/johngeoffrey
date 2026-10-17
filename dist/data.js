@@ -1377,7 +1377,7 @@ window.PORTFOLIO = {
     "cielo-metal-2022-verde": "assets/cielo-metal-2022-verde-transparente.svg",
     "ser-parecer-ladrillos-viga": "assets/ser-parecer-ladrillos-viga.jpeg",
     "ser-word-2": "assets/ser-parecer-word-2.jpg",
-    "ser-word-3": "assets/ser-parecer-word-3.jpeg",
+    "ser-word-3": "assets/ser-parecer-viga-transparente.png",
     "ser-word-4": "assets/ser-parecer-word-4.jpg",
     "ser-word-5": "assets/ser-parecer-word-5.jpg",
     "ser-word-6": "assets/ser-parecer-word-6.jpg",
