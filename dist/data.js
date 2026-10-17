@@ -163,7 +163,10 @@ window.PORTFOLIO = {
         "mineria-montaje"
       ],
       "description": "Las figuras de los mineros recorren el borde de una batea. Esta obra pertenece a la vertiente escultórica de A cielo abierto, Minería legal. La vista de montaje documenta otras obras de la serie.",
-      "title": "Barequero 1"
+      "title": "Barequero 1",
+      "medium": "Óleo sobre batea de minero artesanal",
+      "dimensions": "50 cm de diámetro",
+      "year": "2025"
     },
     {
       "id": "batea-mineros-centro",
@@ -174,7 +177,10 @@ window.PORTFOLIO = {
         "batea-octubre-1"
       ],
       "description": "Figuras de mineros se agrupan sobre la superficie de madera de la batea. Esta obra pertenece a Minería legal, la vertiente escultórica de A cielo abierto.",
-      "title": "Barequero 2"
+      "title": "Barequero 2",
+      "medium": "Óleo sobre batea de minero artesanal",
+      "dimensions": "50 cm de diámetro",
+      "year": "2025"
     },
     {
       "id": "batea-mineros-circulo",
@@ -185,7 +191,10 @@ window.PORTFOLIO = {
         "batea-octubre-3"
       ],
       "description": "Las figuras recorren la batea y se reúnen alrededor de su centro. Esta obra pertenece a Minería legal, la vertiente escultórica de A cielo abierto.",
-      "title": "Barequero 3"
+      "title": "Barequero 3",
+      "medium": "Óleo sobre batea de minero artesanal",
+      "dimensions": "50 cm de diámetro",
+      "year": "2025"
     },
     {
       "id": "batea-metal-mineros",
@@ -210,7 +219,10 @@ window.PORTFOLIO = {
         "batea-octubre-5"
       ],
       "description": "Las figuras de mineros habitan una batea con asas, grietas y reparaciones metálicas. Esta obra pertenece a Minería legal, la vertiente escultórica de A cielo abierto.",
-      "title": "Barequero 5"
+      "title": "Barequero 5",
+      "medium": "Óleo sobre batea de minero artesanal",
+      "dimensions": "50 cm de diámetro",
+      "year": "2025"
     },
     {
       "id": "cielo-horizonte-verde",
