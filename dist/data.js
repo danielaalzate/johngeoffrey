@@ -1396,7 +1396,7 @@ window.PORTFOLIO = {
     "ser-word-1": "assets/ser-parecer-word-1.jpeg",
     "ser-fractura-horizontal": "assets/ser-fractura-horizontal-transparente.png",
     "ser-fractura-ladrillo-yeso": "assets/ser-fractura-ladrillo-yeso-transparente.png",
-    "ser-fractura-gris": "assets/ser-fractura-gris-transparente.png"
+    "ser-fractura-gris": "assets/ser-fractura-original-sin-fondo.png"
   },
   "portfolioUpdated": "2026",
   "artistBiography": [

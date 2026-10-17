@@ -180,3 +180,5 @@
 
 
 #aleacion>.sub-series{display:block;text-align:left}#aleacion>.sub-series h2{margin-bottom:22px}#aleacion>.sub-series p{max-width:none;width:100%;margin:0}
+
+.wall-room .work-image img[src*="ser-fractura-original-sin-fondo"],.wall-room .detail-image img[src*="ser-fractura-original-sin-fondo"]{mix-blend-mode:normal}
