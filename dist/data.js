@@ -515,9 +515,7 @@ window.PORTFOLIO = {
       "images": [
         "ser-parecer",
         "ser-parecer-documental",
-        "ser-proceso",
-        "ser-word-5",
-        "ser-word-4"
+        "ser-proceso"
       ],
       "description": "Registro de la obra instalada y de su proceso. La apariencia de una excavación atraviesa visualmente el muro y se relaciona con los fragmentos dispuestos en el suelo.",
       "exhibition": "Nuevos Territorios · Galería Casa Cuadrada · Bogotá · 2016"
