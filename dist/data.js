@@ -352,7 +352,8 @@ window.PORTFOLIO = {
       ],
       "exhibition": "CONTEXT Art Miami · Galería Casa Cuadrada",
       "title": "Juego de sombras 4",
-      "shadowAnimal": "Lorito"
+      "shadowAnimal": "Lorito",
+      "year": "2022"
     },
     {
       "id": "sombras-pinceles",
