@@ -377,7 +377,7 @@ window.PORTFOLIO = {
       "label": "Figura sobre fondo violeta",
       "year": "2022",
       "medium": "Óleo sobre lámina acrílica y metal",
-      "dimensions": "80 cm de diámetro",
+      "dimensions": "100 cm de diámetro",
       "images": [
         "portfolio-sombras-2-frontal",
         "portfolio-p11-00-Image65",
