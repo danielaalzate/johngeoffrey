@@ -170,3 +170,5 @@
 #navigation .nav-home[hidden]{display:none}
 
 .site-footer .footer-credit{justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px 24px}.site-footer .footer-copyright{margin:0;font-size:12px;letter-spacing:.025em}
+
+.series-in-situ{margin:64px 0}.series-in-situ img{display:block;width:100%;height:auto}.series-in-situ figcaption{margin-top:16px;color:var(--muted);font-size:16px;line-height:1.5}@media(max-width:760px){.series-in-situ{margin:40px 0}}

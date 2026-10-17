@@ -750,12 +750,14 @@ window.PORTFOLIO = {
       "id": "parecer-lienzo",
       "series": "ser-y-parecer",
       "title": "Parecer",
-      "medium": "Óleo sobre lienzo",
+      "medium": "Pintura instalada con escombros, óleo sobre lienzo",
       "images": [
+        "ser-caja-principal",
         "ser-word-2",
+        "ser-word-1",
         "ser-word-6"
       ],
-      "description": "La pintura revela visualmente ladrillos, conducciones y una caja eléctrica detrás de una superficie fracturada. El detalle permite observar cómo la ilusión de profundidad se construye sobre el lienzo."
+      "description": "La pintura revela visualmente ladrillos, conducciones y una caja eléctrica detrás de una superficie fracturada. La vista de instalación muestra su relación con el espacio y los escombros; el detalle permite observar cómo la ilusión de profundidad se construye sobre el lienzo."
     },
     {
       "id": "caja-lectura",
@@ -1380,7 +1382,9 @@ window.PORTFOLIO = {
     "ser-word-5": "assets/ser-parecer-word-5.jpg",
     "ser-word-6": "assets/ser-parecer-word-6.jpg",
     "eco-hombre-botas-amarillo": "assets/eco-figura-botas-amarillo-2026-10.svg",
-    "eco-mujer-camiseta-amarilla": "assets/eco-figura-camiseta-amarilla-2026-10.svg"
+    "eco-mujer-camiseta-amarilla": "assets/eco-figura-camiseta-amarilla-2026-10.svg",
+    "ser-caja-principal": "assets/ser-parecer-caja-principal.svg",
+    "ser-word-1": "assets/ser-parecer-word-1.jpeg"
   },
   "portfolioUpdated": "2026",
   "artistBiography": [
