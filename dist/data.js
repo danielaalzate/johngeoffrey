@@ -58,55 +58,65 @@ window.PORTFOLIO = {
   ],
   "works": [
     {
-      "id": "eco-hombre-botas-amarillo",
+      "id": "caja-rayas",
       "series": "eco-de-luz",
-      "label": "Figura con botas sobre fondo amarillo",
-      "year": "2019",
-      "medium": "Óleo sobre lámina acrílica y fondo metálico",
+      "label": "Figura ante un fondo de franjas",
       "images": [
-        "eco-hombre-botas-amarillo"
+        "caja-rayas",
+        "caja-rayas-documental",
+        "caja-rayas-frontal",
+        "caja-rayas-detalle"
       ],
-      "title": "Eco de luz 1"
-    },
-    {
-      "id": "eco-lectura-rojo",
-      "series": "eco-de-luz",
-      "label": "Figura con un libro en un espacio rojo",
-      "images": [
-        "portfolio-p06-00-Image35"
-      ],
-      "description": "Personaje pintado sobre acrílico translúcido frente a una estructura metálica. Obra incluida en Eco de luz en el portafolio 2026.",
-      "portfolioPage": 6,
-      "title": "Eco de luz 2",
-      "medium": "Óleo sobre lámina acrílica y fondo metálico",
-      "year": "2020",
-      "hideDimensions": true
-    },
-    {
-      "id": "eco-mirada-arriba",
-      "series": "eco-de-luz",
-      "label": "Figura que mira hacia arriba",
-      "images": [
-        "portfolio-p07-00-Image40"
-      ],
-      "portfolioPage": 7,
-      "title": "Eco de luz 3",
+      "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
+      "description": "Una figura se detiene ante planos curvos de franjas turquesa y negras. El marco, la imagen y la profundidad de la caja proponen distintas lecturas al cambiar de posición.",
+      "title": "Eco de luz 9",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
       "dimensions": "50 × 50 cm",
-      "year": "2020"
+      "year": "2026"
     },
     {
-      "id": "eco-figura-espaldas",
+      "id": "caja-hombre",
       "series": "eco-de-luz",
-      "label": "Figura de espaldas ante planos grises",
+      "label": "Figura con un zapato amarillo",
       "images": [
-        "portfolio-p07-01-Image41"
+        "caja-hombre-frontal",
+        "caja-hombre"
       ],
-      "portfolioPage": 7,
-      "title": "Eco de luz 4",
+      "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
+      "title": "Eco de luz 10",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
-      "year": "2020",
-      "hideDimensions": true
+      "dimensions": "50 × 50 cm",
+      "year": "2026"
+    },
+    {
+      "id": "caja-vestido",
+      "series": "eco-de-luz",
+      "label": "Figura ante planos violeta y amarillo",
+      "images": [
+        "caja-vestido-frontal",
+        "caja-vestido",
+        "cajas-dos"
+      ],
+      "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
+      "title": "Eco de luz 11",
+      "medium": "Óleo sobre lámina acrílica y fondo metálico",
+      "dimensions": "50 × 50 cm",
+      "year": "2026"
+    },
+    {
+      "id": "caja-lectura",
+      "series": "eco-de-luz",
+      "label": "Figura reclinada con un libro",
+      "images": [
+        "caja-lectura-frontal",
+        "caja-lectura",
+        "cajas-dos"
+      ],
+      "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
+      "title": "Eco de luz 12",
+      "medium": "Óleo sobre lámina acrílica y fondo metálico",
+      "dimensions": "50 × 50 cm",
+      "year": "2026"
     },
     {
       "id": "cielo-acrilico-satinado-mineros",
@@ -235,18 +245,17 @@ window.PORTFOLIO = {
       "year": "2025"
     },
     {
-      "id": "sombras-verde",
+      "id": "eco-circular-naranja",
       "series": "eco-de-luz",
-      "title": "Eco de luz 5",
+      "label": "Figura con los brazos elevados sobre naranja",
       "images": [
-        "portfolio-eco-circular-verde-frontal",
-        "sombras-verde-documental"
+        "portfolio-eco-circular-naranja-frontal"
       ],
-      "description": "La obra circular aparece dentro de Eco de luz en el portafolio 2026 del artista.",
       "portfolioPage": 8,
+      "title": "Eco de luz 13",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
-      "year": "2021",
-      "hideDimensions": true
+      "dimensions": "50 × 50 cm",
+      "year": "2026"
     },
     {
       "id": "cielo-reflejos-amarillo",
@@ -402,6 +411,20 @@ window.PORTFOLIO = {
       "dimensions": "30 × 30 cm"
     },
     {
+      "id": "sombras-verde",
+      "series": "eco-de-luz",
+      "title": "Eco de luz 5",
+      "images": [
+        "portfolio-eco-circular-verde-frontal",
+        "sombras-verde-documental"
+      ],
+      "description": "La obra circular aparece dentro de Eco de luz en el portafolio 2026 del artista.",
+      "portfolioPage": 8,
+      "medium": "Óleo sobre lámina acrílica y fondo metálico",
+      "year": "2021",
+      "hideDimensions": true
+    },
+    {
       "id": "sombras-hombre",
       "series": "eco-de-luz",
       "label": "Figura masculina sobre fondo rosa",
@@ -439,35 +462,18 @@ window.PORTFOLIO = {
       "title": "Eco de luz 8"
     },
     {
-      "id": "caja-rayas",
+      "id": "eco-lectura-rojo",
       "series": "eco-de-luz",
-      "label": "Figura ante un fondo de franjas",
+      "label": "Figura con un libro en un espacio rojo",
       "images": [
-        "caja-rayas",
-        "caja-rayas-documental",
-        "caja-rayas-frontal",
-        "caja-rayas-detalle"
+        "portfolio-p06-00-Image35"
       ],
-      "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
-      "description": "Una figura se detiene ante planos curvos de franjas turquesa y negras. El marco, la imagen y la profundidad de la caja proponen distintas lecturas al cambiar de posición.",
-      "title": "Eco de luz 9",
+      "description": "Personaje pintado sobre acrílico translúcido frente a una estructura metálica. Obra incluida en Eco de luz en el portafolio 2026.",
+      "portfolioPage": 6,
+      "title": "Eco de luz 2",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
-      "dimensions": "50 × 50 cm",
-      "year": "2026"
-    },
-    {
-      "id": "caja-hombre",
-      "series": "eco-de-luz",
-      "label": "Figura con un zapato amarillo",
-      "images": [
-        "caja-hombre-frontal",
-        "caja-hombre"
-      ],
-      "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
-      "title": "Eco de luz 10",
-      "medium": "Óleo sobre lámina acrílica y fondo metálico",
-      "dimensions": "50 × 50 cm",
-      "year": "2026"
+      "year": "2020",
+      "hideDimensions": true
     },
     {
       "id": "cielo-violeta-verde-2024",
@@ -593,19 +599,17 @@ window.PORTFOLIO = {
       "description": "Ficha actualizada según el portafolio 2026 del artista."
     },
     {
-      "id": "caja-vestido",
+      "id": "eco-mirada-arriba",
       "series": "eco-de-luz",
-      "label": "Figura ante planos violeta y amarillo",
+      "label": "Figura que mira hacia arriba",
       "images": [
-        "caja-vestido-frontal",
-        "caja-vestido",
-        "cajas-dos"
+        "portfolio-p07-00-Image40"
       ],
-      "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
-      "title": "Eco de luz 11",
+      "portfolioPage": 7,
+      "title": "Eco de luz 3",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
       "dimensions": "50 × 50 cm",
-      "year": "2026"
+      "year": "2020"
     },
     {
       "id": "sombras-nina-rojo",
@@ -735,32 +739,28 @@ window.PORTFOLIO = {
       "description": "La pintura revela visualmente ladrillos, conducciones y una caja eléctrica detrás de una superficie fracturada. La vista de instalación muestra su relación con el espacio y los escombros; el detalle permite observar cómo la ilusión de profundidad se construye sobre el lienzo."
     },
     {
-      "id": "caja-lectura",
+      "id": "eco-figura-espaldas",
       "series": "eco-de-luz",
-      "label": "Figura reclinada con un libro",
+      "label": "Figura de espaldas ante planos grises",
       "images": [
-        "caja-lectura-frontal",
-        "caja-lectura",
-        "cajas-dos"
+        "portfolio-p07-01-Image41"
       ],
-      "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
-      "title": "Eco de luz 12",
+      "portfolioPage": 7,
+      "title": "Eco de luz 4",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
-      "dimensions": "50 × 50 cm",
-      "year": "2026"
+      "year": "2020",
+      "hideDimensions": true
     },
     {
-      "id": "eco-circular-naranja",
+      "id": "eco-hombre-botas-amarillo",
       "series": "eco-de-luz",
-      "label": "Figura con los brazos elevados sobre naranja",
-      "images": [
-        "portfolio-eco-circular-naranja-frontal"
-      ],
-      "portfolioPage": 8,
-      "title": "Eco de luz 13",
+      "label": "Figura con botas sobre fondo amarillo",
+      "year": "2019",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
-      "dimensions": "50 × 50 cm",
-      "year": "2026"
+      "images": [
+        "eco-hombre-botas-amarillo"
+      ],
+      "title": "Eco de luz 1"
     },
     {
       "id": "ser-fractura-horizontal",
