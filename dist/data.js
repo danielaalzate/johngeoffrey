@@ -145,7 +145,10 @@ window.PORTFOLIO = {
       "medium": "Óleo sobre láminas de acrílico satinado",
       "images": [
         "cielo-acrilico-satinado-3"
-      ]
+      ],
+      "title": "A cielo abierto 1",
+      "year": "2025",
+      "dimensions": "130 × 130 cm"
     },
     {
       "id": "cielo-acrilico-violeta-amarillo",
@@ -155,7 +158,10 @@ window.PORTFOLIO = {
       "medium": "Óleo sobre láminas de acrílico satinado",
       "images": [
         "cielo-acrilico-satinado-4"
-      ]
+      ],
+      "title": "A cielo abierto 2",
+      "year": "2025",
+      "dimensions": "130 × 130 cm"
     },
     {
       "id": "batea",
