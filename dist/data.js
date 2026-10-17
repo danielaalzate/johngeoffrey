@@ -412,8 +412,8 @@ window.PORTFOLIO = {
       ],
       "title": "Eco de luz 6",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
-      "dimensions": "50 × 50 cm",
-      "year": "2026"
+      "year": "2021",
+      "hideDimensions": true
     },
     {
       "id": "eco-lectura-rojo",
