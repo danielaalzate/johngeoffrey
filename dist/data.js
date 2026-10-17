@@ -511,7 +511,7 @@ window.PORTFOLIO = {
       "id": "parecer-lienzo",
       "series": "ser-y-parecer",
       "title": "Pintura Radiográfica 1",
-      "medium": "Pintura instalada con escombros, óleo sobre lienzo",
+      "medium": "Óleo sobre lienzo",
       "images": [
         "ser-caja-principal",
         "ser-word-2",
@@ -718,7 +718,8 @@ window.PORTFOLIO = {
         "ser-word-4"
       ],
       "year": "2015",
-      "title": "Pintura Radiográfica 2"
+      "title": "Pintura Radiográfica 2",
+      "medium": "Óleo sobre lienzo"
     },
     {
       "id": "ser-parecer",
@@ -731,7 +732,8 @@ window.PORTFOLIO = {
         "ser-proceso"
       ],
       "description": "Registro de la obra instalada y de su proceso. La apariencia de una excavación atraviesa visualmente el muro y se relaciona con los fragmentos dispuestos en el suelo.",
-      "exhibition": "Nuevos Territorios · Galería Casa Cuadrada · Bogotá · 2016"
+      "exhibition": "Nuevos Territorios · Galería Casa Cuadrada · Bogotá · 2016",
+      "medium": "Óleo sobre lienzo"
     },
     {
       "id": "eco-figura-espaldas",
@@ -778,7 +780,8 @@ window.PORTFOLIO = {
         "ser-word-4"
       ],
       "title": "Pintura Radiográfica 5",
-      "year": "2015"
+      "year": "2015",
+      "medium": "Óleo sobre lienzo"
     },
     {
       "id": "ser-fractura-gris",
@@ -789,7 +792,8 @@ window.PORTFOLIO = {
         "ser-word-4"
       ],
       "title": "Pintura Radiográfica 6",
-      "year": "2015"
+      "year": "2015",
+      "medium": "Óleo sobre lienzo"
     }
   ],
   "events": [
