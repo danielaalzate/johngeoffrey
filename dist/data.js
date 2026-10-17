@@ -68,7 +68,11 @@ window.PORTFOLIO = {
         "caja-rayas-detalle"
       ],
       "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
-      "description": "Una figura se detiene ante planos curvos de franjas turquesa y negras. El marco, la imagen y la profundidad de la caja proponen distintas lecturas al cambiar de posición."
+      "description": "Una figura se detiene ante planos curvos de franjas turquesa y negras. El marco, la imagen y la profundidad de la caja proponen distintas lecturas al cambiar de posición.",
+      "title": "Eco de luz 1",
+      "medium": "Óleo sobre lámina acrílica y fondo metálico",
+      "dimensions": "50 × 50 cm",
+      "year": "2026"
     },
     {
       "id": "caja-hombre",
@@ -78,7 +82,11 @@ window.PORTFOLIO = {
         "caja-hombre-frontal",
         "caja-hombre"
       ],
-      "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026"
+      "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
+      "title": "Eco de luz 2",
+      "medium": "Óleo sobre lámina acrílica y fondo metálico",
+      "dimensions": "50 × 50 cm",
+      "year": "2026"
     },
     {
       "id": "caja-vestido",
@@ -89,7 +97,11 @@ window.PORTFOLIO = {
         "caja-vestido",
         "cajas-dos"
       ],
-      "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026"
+      "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
+      "title": "Eco de luz 3",
+      "medium": "Óleo sobre lámina acrílica y fondo metálico",
+      "dimensions": "50 × 50 cm",
+      "year": "2026"
     },
     {
       "id": "caja-lectura",
@@ -100,7 +112,11 @@ window.PORTFOLIO = {
         "caja-lectura",
         "cajas-dos"
       ],
-      "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026"
+      "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
+      "title": "Eco de luz 4",
+      "medium": "Óleo sobre lámina acrílica y fondo metálico",
+      "dimensions": "50 × 50 cm",
+      "year": "2026"
     },
     {
       "id": "cielo-acrilico-satinado-mineros",
@@ -370,13 +386,16 @@ window.PORTFOLIO = {
     {
       "id": "sombras-verde",
       "series": "eco-de-luz",
-      "title": "Super plástica",
+      "title": "Eco de luz 5",
       "images": [
         "portfolio-eco-circular-verde-frontal",
         "sombras-verde-documental"
       ],
       "description": "La obra circular aparece dentro de Eco de luz en el portafolio 2026 del artista.",
-      "portfolioPage": 8
+      "portfolioPage": 8,
+      "medium": "Óleo sobre lámina acrílica y fondo metálico",
+      "dimensions": "50 × 50 cm",
+      "year": "2026"
     },
     {
       "id": "sombras-hombre",
@@ -385,7 +404,11 @@ window.PORTFOLIO = {
       "images": [
         "sombras-hombre",
         "sombras-hombre-documental"
-      ]
+      ],
+      "title": "Eco de luz 6",
+      "medium": "Óleo sobre lámina acrílica y fondo metálico",
+      "dimensions": "50 × 50 cm",
+      "year": "2026"
     },
     {
       "id": "eco-lectura-rojo",
@@ -395,7 +418,11 @@ window.PORTFOLIO = {
         "portfolio-p06-00-Image35"
       ],
       "description": "Personaje pintado sobre acrílico translúcido frente a una estructura metálica. Obra incluida en Eco de luz en el portafolio 2026.",
-      "portfolioPage": 6
+      "portfolioPage": 6,
+      "title": "Eco de luz 7",
+      "medium": "Óleo sobre lámina acrílica y fondo metálico",
+      "dimensions": "50 × 50 cm",
+      "year": "2026"
     },
     {
       "id": "eco-mirada-arriba",
@@ -404,7 +431,11 @@ window.PORTFOLIO = {
       "images": [
         "portfolio-p07-00-Image40"
       ],
-      "portfolioPage": 7
+      "portfolioPage": 7,
+      "title": "Eco de luz 8",
+      "medium": "Óleo sobre lámina acrílica y fondo metálico",
+      "dimensions": "50 × 50 cm",
+      "year": "2026"
     },
     {
       "id": "eco-figura-espaldas",
@@ -413,7 +444,11 @@ window.PORTFOLIO = {
       "images": [
         "portfolio-p07-01-Image41"
       ],
-      "portfolioPage": 7
+      "portfolioPage": 7,
+      "title": "Eco de luz 9",
+      "medium": "Óleo sobre lámina acrílica y fondo metálico",
+      "dimensions": "50 × 50 cm",
+      "year": "2026"
     },
     {
       "id": "eco-circular-naranja",
@@ -422,7 +457,11 @@ window.PORTFOLIO = {
       "images": [
         "portfolio-eco-circular-naranja-frontal"
       ],
-      "portfolioPage": 8
+      "portfolioPage": 8,
+      "title": "Eco de luz 10",
+      "medium": "Óleo sobre lámina acrílica y fondo metálico",
+      "dimensions": "50 × 50 cm",
+      "year": "2026"
     },
     {
       "id": "cielo-violeta-verde-2024",
@@ -556,7 +595,11 @@ window.PORTFOLIO = {
       "images": [
         "eco-globos-dorados",
         "eco-globos-dorados-documental"
-      ]
+      ],
+      "title": "Eco de luz 11",
+      "medium": "Óleo sobre lámina acrílica y fondo metálico",
+      "dimensions": "50 × 50 cm",
+      "year": "2026"
     },
     {
       "id": "sombras-nina-rojo",
