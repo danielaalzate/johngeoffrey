@@ -392,15 +392,14 @@ window.PORTFOLIO = {
     },
     {
       "id": "cielo-horizonte-verde",
-      "series": "eco-de-luz",
+      "series": "a-cielo-abierto",
       "label": "Figuras sobre planos de metal y verde",
       "images": [
         "cielo-horizonte-verde-frontal"
       ],
       "year": "2021",
       "medium": "Óleo sobre lámina de acero inoxidable",
-      "dimensions": "30 × 30 cm",
-      "title": "Eco de luz 6"
+      "dimensions": "30 × 30 cm"
     },
     {
       "id": "sombras-hombre",
@@ -410,7 +409,7 @@ window.PORTFOLIO = {
         "sombras-hombre",
         "sombras-hombre-documental"
       ],
-      "title": "Eco de luz 7",
+      "title": "Eco de luz 6",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
       "year": "2021",
       "hideDimensions": true
@@ -423,7 +422,7 @@ window.PORTFOLIO = {
         "eco-globos-dorados",
         "eco-globos-dorados-documental"
       ],
-      "title": "Eco de luz 8",
+      "title": "Eco de luz 7",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
       "dimensions": "120 cm de diámetro",
       "year": "2021"
@@ -437,7 +436,7 @@ window.PORTFOLIO = {
       "images": [
         "eco-mujer-camiseta-amarilla"
       ],
-      "title": "Eco de luz 9"
+      "title": "Eco de luz 8"
     },
     {
       "id": "caja-rayas",
@@ -451,7 +450,7 @@ window.PORTFOLIO = {
       ],
       "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
       "description": "Una figura se detiene ante planos curvos de franjas turquesa y negras. El marco, la imagen y la profundidad de la caja proponen distintas lecturas al cambiar de posición.",
-      "title": "Eco de luz 10",
+      "title": "Eco de luz 9",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
       "dimensions": "50 × 50 cm",
       "year": "2026"
@@ -465,7 +464,7 @@ window.PORTFOLIO = {
         "caja-hombre"
       ],
       "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
-      "title": "Eco de luz 11",
+      "title": "Eco de luz 10",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
       "dimensions": "50 × 50 cm",
       "year": "2026"
@@ -605,7 +604,7 @@ window.PORTFOLIO = {
         "cajas-dos"
       ],
       "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
-      "title": "Eco de luz 12",
+      "title": "Eco de luz 11",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
       "dimensions": "50 × 50 cm",
       "year": "2026"
@@ -747,7 +746,7 @@ window.PORTFOLIO = {
         "cajas-dos"
       ],
       "exhibition": "Entre raíces y memoria: lo que permanece · Borboleta Gallery · septiembre de 2026",
-      "title": "Eco de luz 13",
+      "title": "Eco de luz 12",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
       "dimensions": "50 × 50 cm",
       "year": "2026"
@@ -760,7 +759,7 @@ window.PORTFOLIO = {
         "portfolio-eco-circular-naranja-frontal"
       ],
       "portfolioPage": 8,
-      "title": "Eco de luz 14",
+      "title": "Eco de luz 13",
       "medium": "Óleo sobre lámina acrílica y fondo metálico",
       "dimensions": "50 × 50 cm",
       "year": "2026"
