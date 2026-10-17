@@ -242,7 +242,10 @@ window.PORTFOLIO = {
       "label": "Figuras sobre planos de metal y verde",
       "images": [
         "cielo-horizonte-verde-frontal"
-      ]
+      ],
+      "year": "2019",
+      "medium": "Óleo sobre lámina de acero inoxidable",
+      "dimensions": "30 × 30 cm"
     },
     {
       "id": "cielo-reflejos-amarillo",
